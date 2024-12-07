@@ -1,0 +1,24 @@
+1.5.0 UPDATE
+
+Mods Updated:
+BetterBuildersWands-1.12.2-0.13.0.267+dc89c58.jar
+Botania r1.10-359.jar #170
+BuildingGadgets-2.6.0.jar
+Cyclic-1.12.2-1.17.16.jar
+exnihilocreatio-1.12-0.3.6.jar
+industrialforegoing-1.12.2-1.12.5-229.jar #109
+letsencryptcraft-1.10.2-1.2.0.jar
+ProjectEX-1.0.0.10.jar #286
+voidislandcontrol-1.5.3.jar Should fix #42
+
+Mods Added:
+
+
+Mods Removed:
+
+
+Changes:
+Removed EMC From Engineer's Toolbox #289
+Disable "Texture optimizations" in VanillaFix #279
+Fixed recipe conflict Structural Arm - Scaffolding Stairs #265
+Disabled Boomerangs from Cyclic #296

@@ -1,0 +1,31 @@
+{
+	title: "100rnd 7.62x39mm Drum Magazine",
+	icon: {
+		id: "mw:ak100mag",
+		tag: {
+			Ammo: 100
+		}
+	},
+	x: 4.0d,
+	y: 2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "9b9c64dc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 300L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "784e616b",
+		type: "item",
+		item: {
+			id: "mw:ak100mag",
+			tag: {
+				Ammo: 0
+			}
+		}
+	}]
+}

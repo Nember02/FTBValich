@@ -1,0 +1,33 @@
+{
+	title: "Fluid Cow: Destabilized Redstone",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "redstone",
+			Amount: 1000
+		}
+	},
+	x: 4.5d,
+	y: -5.5d,
+	shape: "circle",
+	text: [
+		"This cow can't be crafted. You have to breed it from other cows.",
+		"For the task to be completed, pick up the cow with a Cow Halter."
+	],
+	tasks: [{
+		uid: "65cf68eb",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_halter",
+			tag: {
+				t_fluid: "redstone"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "572031b4",
+		type: "random",
+		table: 0
+	}]
+}

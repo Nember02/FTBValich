@@ -1,0 +1,25 @@
+{
+	title: "Открыть Охоту на Чудовищ",
+	icon: "srparasites:itemmobspawner_shycoadapted",
+	x: -6.5d,
+	y: 7.5d,
+	text: [
+		"В мире по неизвестной причине появились отвратительные чудовища!",
+		"Они сильные, стойкие и опасные.",
+		"Корона готова платить за их истребление. Дерзай!"
+	],
+	dependencies: [
+		"007483e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "54f76917",
+		type: "checkmark",
+		title: "Ладно"
+	}],
+	rewards: [{
+		uid: "cb65e043",
+		type: "random",
+		table: 0
+	}]
+}

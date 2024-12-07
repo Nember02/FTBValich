@@ -1,0 +1,29 @@
+1.8.0 UPDATE
+
+Mods Updated:
+BuildingGadgets-2.6.5.jr
+exnihilocreatio-1.12.2-0.3.8.3.jar
+extrautils2-1.12-1.9.9.jar
+FTBLib-5.4.1.85.jar
+FTBQuests-1.5.1.132.jar
+FTBUtilities-5.4.0.84.jar
+FTBUtilitiesBackups-1.0.0.1.jar
+industrialforegoing-1.12.2-1.12.6-230.jar
+IntegratedDynamics-1.12.2-1.0.7.jar
+IntegratedTunnels-1.12.2-1.6.7.jar
+Psi-r1.1-72.jar
+RebornCore-1.12.2-3.13.5.421-universal.jar
+SplashAnimation-0.2.1.jar
+tmel-1.12.2-1.3.2.2.jar
+YABBA-1.1.2.44.jar
+
+Mods Added:
+ContentTweaker-1.12.2-4.9.1.jar
+
+Mods Removed:
+
+
+Changes:
+Added recipe for Balanced Clay making "Big Spender" quest doable.
+Fixed DragonScale EMC value.
+Added EMC to Blue, purple, and magma slime.

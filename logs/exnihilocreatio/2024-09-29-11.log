@@ -1,0 +1,49 @@
+[13:53:37] [ERROR] Error parsing Ingredient String: Invalid Item: natura:overworld_leaves:-1
+[13:53:37] [ERROR] Compost JSON Entry for natura:overworld_leaves:-1 already exists, skipping.
+[13:53:37] [ERROR] Error parsing Ingredient String: Invalid Item: natura:overworld_leaves2:-1
+[13:53:37] [ERROR] Compost JSON Entry for natura:overworld_leaves2:-1 already exists, skipping.
+[13:53:37] [ERROR] Error parsing Ingredient String: Invalid Item: natura:redwood_leaves:0
+[13:53:37] [ERROR] Compost JSON Entry for natura:redwood_leaves:0 already exists, skipping.
+[13:53:37] [ERROR] Error parsing Ingredient String: Invalid Item: natura:nether_leaves:-1
+[13:53:37] [ERROR] Compost JSON Entry for natura:nether_leaves:-1 already exists, skipping.
+[13:53:37] [ERROR] Error parsing Ingredient String: Invalid Item: natura:nether_leaves2:-1
+[13:53:37] [ERROR] Compost JSON Entry for natura:nether_leaves2:-1 already exists, skipping.
+[13:53:37] [ERROR] Number error in json: randomthings:spectreleaf:*
+[13:53:37] [ERROR] Compost JSON Entry for randomthings:spectreleaf:* already exists, skipping.
+[13:53:46] [INFO] Enabled support for The One Probe
+[13:54:58] [INFO] ModConfig Loaded: true
+[13:54:58] [INFO] JEI: Compost Recipe Pages Loaded:         4
+[13:54:58] [INFO] JEI: Fluid Item Transform Recipes Loaded:       24
+[13:54:58] [INFO] JEI: Fluid On Top Recipes Loaded:       2
+[13:54:58] [INFO] JEI: Fluid Transform Recipes Loaded:    2
+[13:54:58] [INFO] JEI: Hammer Recipes Loaded:             14
+[13:54:58] [INFO] JEI: Crook Recipes Loaded:              32
+[13:54:58] [INFO] JEI: Heat Sources Loaded:             12
+[13:54:58] [INFO] JEI: Sieve Recipes Loaded:              25
+[13:54:58] [INFO] JEI: Stone Crucible Recipes Loaded:       1
+[13:54:58] [INFO] JEI: Wood Crucible Recipes Loaded:        1
+[13:54:58] [INFO] Registered Crook Catalyst: enderio:item_dark_steel_crook
+[13:54:58] [INFO] Registered Hammer Catalyst: exnihilocreatio:hammer_wood
+[13:54:58] [INFO] Registered Hammer Catalyst: exnihilocreatio:hammer_stone
+[13:54:58] [INFO] Registered Hammer Catalyst: exnihilocreatio:hammer_iron
+[13:54:58] [INFO] Registered Hammer Catalyst: exnihilocreatio:hammer_diamond
+[13:54:58] [INFO] Registered Hammer Catalyst: exnihilocreatio:hammer_gold
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_wood
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_stone
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_andesite
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_granite
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_diorite
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_gold
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_iron
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_diamond
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_bone
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_clay_uncooked
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_clay
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_prismarine
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_netherrack
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_purpur
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_blaze
+[13:54:58] [INFO] Registered Hammer Catalyst: exnihilocreatio:hammer_tconstruct
+[13:54:58] [INFO] Registered Crook Catalyst: exnihilocreatio:crook_tconstruct
+[13:54:58] [INFO] Registered Crook Catalyst: excompressum:compressed_crook
+[13:54:58] [INFO] Registered Crook Catalyst: stoneblockutilities:crook_stone

@@ -1,0 +1,98 @@
+{
+	title: "Сельскохозяйственный обмен",
+	icon: "minecraft:wheat",
+	x: 3.0d,
+	y: 4.0d,
+	can_repeat: true,
+	dependencies: [
+		"49304707"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "55962d25",
+		type: "item",
+		title: "Арбузы",
+		icon: "minecraft:melon",
+		items: [{
+			item: "minecraft:melon"
+		}],
+		count: 2800L
+	},
+	{
+		uid: "eb2959d6",
+		type: "item",
+		title: "Тростник",
+		icon: "minecraft:reeds",
+		items: [{
+			item: "minecraft:reeds"
+		}],
+		count: 1200L
+	},
+	{
+		uid: "73ee879d",
+		type: "item",
+		title: "Крупы",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "listAllgrain",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 1400L
+	},
+	{
+		uid: "cc6515d5",
+		type: "item",
+		title: "Овощи",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "listAllveggie",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 2200L
+	},
+	{
+		uid: "f0e02386",
+		type: "item",
+		title: "Инструменты",
+		items: [{
+			item: "minecraft:iron_hoe"
+		},
+		{
+			item: "thermalfoundation:tool.hoe_silver"
+		},
+		{
+			item: "thermalfoundation:tool.hoe_aluminum"
+		},
+		{
+			item: "thermalfoundation:tool.hoe_tin"
+		},
+		{
+			item: "thermalfoundation:tool.hoe_copper"
+		},
+		{
+			item: "minecraft:golden_hoe"
+		},
+		{
+			item: "thermalfoundation:tool.hoe_lead"
+		}],
+		count: 10L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7b0db61f",
+		type: "item",
+		title: "Монеты",
+		icon: "harvestcraft:garliccoinitem",
+		item: "harvestcraft:garliccoinitem",
+		count: 50
+	}]
+}

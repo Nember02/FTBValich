@@ -1,0 +1,18 @@
+{
+	title: "Поставка Арбузы (открытие)",
+	x: -7.5d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"9a47f807"
+	],
+	hide: true,
+	tasks: [{
+		uid: "da6d237c",
+		type: "item",
+		items: [{
+			item: "minecraft:melon"
+		}],
+		consume_items: false
+	}]
+}

@@ -1,0 +1,62 @@
+{
+	title: "Молоты",
+	loot_size: 1,
+	rewards: [{
+		item: "thermalfoundation:tool.hammer_lead",
+		weight: 559
+	},
+	{
+		item: "thermalfoundation:tool.hammer_tin",
+		weight: 372
+	},
+	{
+		item: "thermalfoundation:tool.hammer_copper",
+		weight: 319
+	},
+	{
+		item: "thermalfoundation:tool.hammer_aluminum",
+		weight: 248
+	},
+	{
+		item: "thermalfoundation:tool.hammer_iron",
+		weight: 223
+	},
+	{
+		item: "thermalfoundation:tool.hammer_constantan",
+		weight: 203
+	},
+	{
+		item: "thermalfoundation:tool.hammer_nickel",
+		weight: 186
+	},
+	{
+		item: "thermalfoundation:tool.hammer_bronze",
+		weight: 172
+	},
+	{
+		item: "thermalfoundation:tool.hammer_steel",
+		weight: 140
+	},
+	{
+		item: "thermalfoundation:tool.hammer_invar",
+		weight: 131
+	},
+	{
+		item: "thermalfoundation:tool.hammer_platinum",
+		weight: 40
+	},
+	{
+		item: "thermalfoundation:tool.hammer_diamond",
+		weight: 36
+	}],
+	loot_crate: {
+		string_id: "_",
+		item_name: "Ящик Инструментальный",
+		color: 14423100,
+		drops: {
+			boss: 0,
+			passive: 50,
+			monster: 100
+		}
+	}
+}

@@ -1,0 +1,2392 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 00_OreDictionary.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ActuallyAdditions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AddEntityDrop.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AngelRing2Bauble.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AppliedEnergistics2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Avaritia.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: betterbuilderswands.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: BiomesOPlenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: BuildCraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Ceramics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Chickens.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Chisel.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: chiselandbits.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: clay.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Cyclic.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: EnderIO.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ExCompressum.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ExNihiloCreatio.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ExtraUtilities2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: FluidCows.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Flux.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: framland.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: FTBQuests.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Hatchery.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ImmersiveEngineering.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: JEI.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: LootTables.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MaslisisDoors.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Mekanism.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: microblocks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Minecraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ModernWarfare.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MysticalAgradditions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: OpenBlocks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: PamsHarvestcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ProjectE.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ProjectEX.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ProjectRed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: QuantumFlux.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: RandomThings.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: SimpleStorage.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Srparasites.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Thermal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Tinkers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: TinyProgressions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Tooltip.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Translocators.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 4ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 00_OreDictionary.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ActuallyAdditions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AddEntityDrop.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AngelRing2Bauble.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AppliedEnergistics2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Avaritia.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: betterbuilderswands.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: BiomesOPlenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: BuildCraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Ceramics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Chickens.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Chisel.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: chiselandbits.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[0:contenttweaker]: clay.zs}
+[PREINITIALIZATION][CLIENT][INFO] Initializing 'clay.zs'...
+[PREINITIALIZATION][CLIENT][INFO] Initialized 'clay.zs'
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Cyclic.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: EnderIO.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ExCompressum.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ExNihiloCreatio.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ExtraUtilities2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: FluidCows.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Flux.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: framland.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: FTBQuests.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Hatchery.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ImmersiveEngineering.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: JEI.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: LootTables.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MaslisisDoors.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Mekanism.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: microblocks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Minecraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ModernWarfare.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MysticalAgradditions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: OpenBlocks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: PamsHarvestcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ProjectE.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ProjectEX.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ProjectRed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: QuantumFlux.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: RandomThings.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: SimpleStorage.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Srparasites.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Thermal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Tinkers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: TinyProgressions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Tooltip.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Translocators.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 181ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 00_OreDictionary.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Copper Ore to ore dictionary entry oreCopper
+[INITIALIZATION][CLIENT][INFO] Adding Tin Ore to ore dictionary entry oreTin
+[INITIALIZATION][CLIENT][INFO] Adding Песчаная Земля to ore dictionary entry dirt
+[INITIALIZATION][CLIENT][INFO] Adding Илистая Земля to ore dictionary entry dirt
+[INITIALIZATION][CLIENT][INFO] Adding Сухой Песок to ore dictionary entry sand
+[INITIALIZATION][CLIENT][INFO] Adding Блок коксового угля to ore dictionary entry blockCoalCoke
+[INITIALIZATION][CLIENT][INFO] Removing Каменная палка from ore dictionary entry rodStone
+[INITIALIZATION][CLIENT][INFO] Adding Ведро лавы to ore dictionary entry listAlllava
+[INITIALIZATION][CLIENT][INFO] Adding Dragon Scale to ore dictionary entry dragonScale
+[INITIALIZATION][CLIENT][INFO] Adding Засохшее бревно to ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Adding Бревно Синякового дерева to ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Adding Бревно Синякового дерева to ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Adding Бревно Синякового дерева to ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Дубовые доски to ore dictionary entry oakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Акациевые доски to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из акации to ore dictionary entry acaciaPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Берёзовые доски to ore dictionary entry birchPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тёмного дуба to ore dictionary entry darkOakPlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Доски из тропического дерева to ore dictionary entry junglePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] Adding Еловые доски to ore dictionary entry sprucePlanks
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ActuallyAdditions.zs}
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_helm_emerald>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_chest_emerald>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_pants_emerald>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_boots_emerald>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_helm_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_chest_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_pants_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_boots_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_pickaxe_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_axe_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_shovel_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_sword_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_hoe_obsidian>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_misc:4>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_misc:9>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:block_coffee_machine>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_coffee>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_coffee_seed>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_coffee_beans>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:2>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:3>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:4>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:5>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:6>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:7>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:8>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:9>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:10>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:11>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:13>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:14>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:15>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:16>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:18>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:19>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_food:20>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_resonant_rice>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:block_furnace_solar>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:item_bag>: "Disabled due to bug!"
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AddEntityDrop.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AngelRing2Bauble.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AppliedEnergistics2.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'AppliedEnergistics2.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'AppliedEnergistics2.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Avaritia.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Avaritia.zs'...
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Максимальное рагу
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe minecraft:craft_tweaker/extreme/shapeless/ultimate_stew for Максимальное рагу
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Шлем Бесконечности
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_infinity_helmet for Шлем Бесконечности
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Нагрудник Бесконечности
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_infinity_chestplate for Нагрудник Бесконечности
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Поножи Бесконечности
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_infinity_pants for Поножи Бесконечности
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Ботинки Бесконечности
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_infinity_boots for Ботинки Бесконечности
+[INITIALIZATION][CLIENT][INFO] Initialized 'Avaritia.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: betterbuilderswands.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'betterbuilderswands.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'betterbuilderswands.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BiomesOPlenty.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'BiomesOPlenty.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'BiomesOPlenty.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BuildCraft.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'BuildCraft.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'BuildCraft.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Ceramics.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Ceramics.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Ceramics.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Chickens.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Chickens.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Chickens.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Chisel.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Chisel.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Chisel.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: chiselandbits.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ChiselandBits.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'ChiselandBits.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: clay.zs} as we are currently loading with a different loader
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Cyclic.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Cyclic.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Cyclic.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: EnderIO.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'EnderIO.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'EnderIO.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExCompressum.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ExCompressum.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'ExCompressum.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExNihiloCreatio.zs}
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_sieve>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:1>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:2>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:3>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:4>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:5>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:item_seed_oak>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:item_seed_spruce>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:item_seed_birch>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:item_seed_jungle>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:item_seed_acacia>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:item_seed_darkoak>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_end_cake>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_auto_sifter>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_axle_stone>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_waterwheel>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_grinder>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:item_material:7>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtilities2.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ExtraUtilies2.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:bagofholding>: "Disabled due to bug!"
+[INITIALIZATION][CLIENT][INFO] Initialized 'ExtraUtilies2.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: FluidCows.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'FluidCows.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'ExNihiloCreatio.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Flux.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Flux.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Flux.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: framland.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'framland.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'framland.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: FTBQuests.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'FTBQuests.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ftbquests:chest>: "Disabled due to bug!"
+[INITIALIZATION][CLIENT][INFO] Initialized 'FTBQuests.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Hatchery.zs}
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <hatchery:fertilized_dirt>: "Disabled due to conflict!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <hatchery:sprayer>: "Disabled due to conflict!"
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ImmersiveEngineering.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ImmersiveEngineering.zs'...
+[INITIALIZATION][CLIENT][INFO] Removing Coke Oven Recipe for Коксовый уголь
+[INITIALIZATION][CLIENT][INFO] Removing Coke Oven Recipe for Блок коксового угля
+[INITIALIZATION][CLIENT][INFO] Adding Coke Oven Recipe for Коксовый уголь
+[INITIALIZATION][CLIENT][INFO] Adding Coke Oven Recipe for Блок коксового угля
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Алмаз
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Алмаз
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Алмаз
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Алмаз
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Железная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Железная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Железная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Железная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Золотая пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Золотая пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Золотая пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Золотая пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Стальная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Стальная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Стальная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Стальная пыль
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Кожа
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Кожа
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Кожа
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Кожа
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Алмаз
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Измельчённое железо
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Измельчённое золото
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Кожа
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Незеритовый кирпич
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Кирпич
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Измельченный камень нижнего мира
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Измельченный камень края
+[INITIALIZATION][CLIENT][INFO] Initialized 'ImmersiveEngineering.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'JEI.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'JEI.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: LootTables.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'LootTables.zs'...
+[INITIALIZATION][CLIENT][INFO] Queued pool dragonEgg for addition to table mightyenderchicken:ender_chicken
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#1' for addition to pool 'dragonEgg' of table 'mightyenderchicken:ender_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued pool dragonHeart for addition to table mightyenderchicken:ender_chicken
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#1' for addition to pool 'dragonHeart' of table 'mightyenderchicken:ender_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued pool dragonScale for addition to table mightyenderchicken:ender_chicken
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#1' for addition to pool 'dragonScale' of table 'mightyenderchicken:ender_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#2' for addition to pool 'dragonScale' of table 'mightyenderchicken:ender_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#3' for addition to pool 'dragonScale' of table 'mightyenderchicken:ender_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued pool dragonHeart for addition to table mightyenderchicken:chaos_chicken
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#1' for addition to pool 'dragonHeart' of table 'mightyenderchicken:chaos_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued pool chaosShard for addition to table mightyenderchicken:chaos_chicken
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#1' for addition to pool 'chaosShard' of table 'mightyenderchicken:chaos_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#2' for addition to pool 'chaosShard' of table 'mightyenderchicken:chaos_chicken'
+[INITIALIZATION][CLIENT][INFO] Queued item entry 'loottweaker#3' for addition to pool 'chaosShard' of table 'mightyenderchicken:chaos_chicken'
+[INITIALIZATION][CLIENT][INFO] Initialized 'LootTables.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MaslisisDoors.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'MaslisisDoors.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'MaslisisDoors.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Mekanism.zs}
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:steelpaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:lapislazulipaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:osmiumpaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:glowstonepaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:goldpaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:diamondpaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:ironpaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:stonepaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismtools:woodpaxel>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanismgenerators:solarpanel>: "Disabled due to balance!"
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: microblocks.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Mircoblocks.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Mircoblocks.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Minecraft.zs}
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <ore:treeLeaves>
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ModernWarfare.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MysticalAgradditions.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'MysticalAgradditions.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'MysticalAgradditions.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: OpenBlocks.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'OpenBlocks.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'OpenBlocks.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: PamsHarvestcraft.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'PamsHarvestcraft.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'PamsHarvestcraft.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ProjectE.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ProjectE.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_transmutationtable for Стол трансмутаций
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_transmutationtablet for Планшет трансмутаций
+[INITIALIZATION][CLIENT][INFO] Initialized 'ProjectE.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ProjectEX.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ProjectEX.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'ProjectEX.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ProjectRed.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ProjectRed.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'ProjectRed.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: QuantumFlux.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'QuantumFlux.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <quantumflux:magnet>: "Disabled due to bug!"
+[INITIALIZATION][CLIENT][INFO] Initialized 'QuantumFlux.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RandomThings.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: SimpleStorage.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Srparasites.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Srparasites.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Srparasites.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Thaumcraft.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Thaumcraft.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Thaumcraft.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Thermal.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Thermal.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Thermal.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Tinkers.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Tinkers.zs'...
+[INITIALIZATION][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone>
+[INITIALIZATION][CLIENT][INFO] Initialized 'Tinkers.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: TinyProgressions.zs}
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:emerald_hoe>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:emerald_pickaxe>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:emerald_spade>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:emerald_axe>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:emerald_sword>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:emerald_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:emerald_battle>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:flint_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:golden_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:diamond_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:iron_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:stone_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:wooden_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:obsidian_multi>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:charcoal_block>: "Disabled due to dublicate!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_rod>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_iron_pickaxe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_iron_spade>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_iron_axe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_iron_hoe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_iron_sword>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_gold_pickaxe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_gold_spade>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_gold_axe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_gold_hoe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_gold_sword>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_diamond_pickaxe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_diamond_spade>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_diamond_axe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_diamond_hoe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:bsc_diamond_sword>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_rod>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_diamond_axe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_diamond_pickaxe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_diamond_spade>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_diamond_hoe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_diamond_sword>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_axe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_pickaxe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_spade>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_hoe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_sword>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_iron_axe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_iron_pickaxe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_iron_spade>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_iron_hoe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_iron_sword>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_gold_axe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_gold_pickaxe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_gold_spade>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_gold_hoe>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:nether_gold_sword>: "Disabled due to cringe!"
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Tooltip.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Tooltip.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <torchmaster:mega_torch>: "Stops Mob Spawns in a"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <torchmaster:mega_torch>: "64 Block Radius"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: "Can be crafted"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: "Can be crafted"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: "Can be crafted"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: "Can be crafted"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:facade>: "Facades are not disabled in this pack; just hidden in JEI. To craft facades, place the block you want to create a facade out of in the centre of the crafting grid (3x3) and four AE2 cable anchors on all adjacent sides of that block. If no output appears then you cannot create a facade with that block."
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_sieve>: "Requires a Mesh"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:5>: "Requires a Mesh"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:5>: "Only sieves compressed blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:4>: "Requires a Mesh"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:4>: "Only sieves compressed blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:3>: "Requires a Mesh"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:3>: "Only sieves compressed blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:2>: "Requires a Mesh"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:2>: "Only sieves compressed blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:1>: "Requires a Mesh"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve:1>: "Only sieves compressed blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve>: "Requires a Mesh"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:heavy_sieve>: "Only sieves compressed blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:compressed_hammer_wood>: "Hammers Compressed Blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:compressed_hammer_stone>: "Hammers Compressed Blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:compressed_hammer_iron>: "Hammers Compressed Blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:compressed_hammer_gold>: "Hammers Compressed Blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <excompressum:compressed_hammer_diamond>: "Hammers Compressed Blocks"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_crucible:1>: "Following makes lava"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_crucible:1>: "Cobblestone"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_crucible:1>: "Granite"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_crucible:1>: "Diorite"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <exnihilocreatio:block_crucible:1>: "Andesite"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:mob_spawner>: "Entity type can be changed with Spawner Changer"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:mob_spawner>: "Or by being broken and combined with Soul Vial in a Soul Binder"
+[INITIALIZATION][CLIENT][INFO] Initialized 'Tooltip.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Translocators.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'Translocators.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'Translocators.zs'
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 493ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing Grinder Entry for Пшеница
+[POSTINITIALIZATION][CLIENT][INFO] Adding Grinder Entry for Пшеница
+[POSTINITIALIZATION][CLIENT][INFO] Adding Grinder Entry for Черная кварцевая руда
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <actuallyadditions:item_dust:4> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <actuallyadditions:item_dust:3> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <actuallyadditions:item_dust:7> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "actuallyadditions:recipes25"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "flyringbaublemod:flyring1a"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "flyringbaublemod:flyring1c"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "flyringbaublemod:flyring1b"
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <appliedenergistics2:material:3> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "excompressum:compressed_cobblestone_unpack"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "excompressum:compressed_gravel_unpack"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "excompressum:compressed_sand_unpack"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "excompressum:compressed_dirt_unpack"
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <extrautils2:ingredients> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <mekanism:otherdust> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "thermalfoundation:paper"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes matching: mw
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <harvestcraft:cottonitem>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <translocators:diamond_nugget> * 9
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Рисовый слизневый шар with name ct_shaped-1472140902
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Кабельный фасад - Стекло with name ct_shaped138365123
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Железный жезл with name ct_shaped-416283329
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Алмазный жезл with name ct_shaped600916725
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Глинистая Земля with name ct_shaped334168614
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Песчаная Земля with name ct_shaped-2033252603
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Илистая Земля with name ct_shaped1908825473
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Белый Песок with name ct_shaped-9403008
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Сухой Песок with name ct_shaped1396705535
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Разъем маркера with name ct_shaped483345678
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Henhouse with name ct_shaped297028431
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ink Black Chicken Egg with name ct_shaped-804546029
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Chicken Egg with name ct_shaped-653031542
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cactus Green Chicken Egg with name ct_shaped174781707
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cocoa Brown Chicken Egg with name ct_shaped780741516
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lapis Blue Chicken Egg with name ct_shaped-260194035
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Purple Chicken Egg with name ct_shaped1750086030
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cyan Chicken Egg with name ct_shaped1336099855
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Gray Chicken Egg with name ct_shaped1611186576
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gray Chicken Egg with name ct_shaped1944653585
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pink Chicken Egg with name ct_shaped696540306
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lime Chicken Egg with name ct_shaped851262122
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Yellow Chicken Egg with name ct_shaped780658987
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Blue Chicken Egg with name ct_shaped-1080106068
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magenta Chicken Egg with name ct_shaped1572047661
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Orange Chicken Egg with name ct_shaped-1999330386
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bone White Chicken Egg with name ct_shaped1141402927
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint Chicken with name ct_shaped505941503
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sand Chicken with name ct_shaped107958070
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Log Chicken with name ct_shaped1066454298
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Soul Sand Chicken with name ct_shaped-1864207767
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nether Quartz Chicken with name ct_shaped-940026739
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Базальт with name ct_shaped-152190150
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Известняк with name ct_shaped990994730
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Мрамор with name ct_shaped2146054392
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Деревянный ключ with name ct_shaped1624765093
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cow Bait with name ct_shaped-1168783770
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Polar Bear Bait with name ct_shapeless-1075534611
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Llama Bait with name ct_shapeless1359722227
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Parrot Bait with name ct_shapeless-234644304
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Sieve with name ct_shaped-1026914791
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Heavy Sieve with name ct_shaped225446403
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Деревянный молот with name ct_shaped1358772447
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magical Snow Globe with name ct_shaped-86337828
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Sun Crystal with name ct_shapeless1797652880
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluid Cow: Лава with name ct_shaped793697225
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluid Cow: Вода with name ct_shaped-1106536689
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluid Cow: Молоко with name ct_shaped1950764095
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluid Cow: Расплавленный камень with name ct_shaped87829563
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Thunder Hoe with name ct_shaped-778298682
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Стальная опора with name ct_shaped-588554053
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Алюминиевая опора with name ct_shaped271635954
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Инженерный чертёж with name ct_shaped425182788
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Инженерный чертёж with name ct_shaped393854870
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Инженерный чертёж with name ct_shaped-1892438260
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Инженерный чертёж with name ct_shaped388769735
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Инженерный чертёж with name ct_shaped2110570358
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ступени из стальных лесов with name ct_shaped-1233339015
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ступени из стальных лесов with name ct_shapeless1704504840
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ступени из алюминиевых лесов with name ct_shaped-409124558
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ступени из алюминиевых лесов with name ct_shapeless941078030
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Люк из акации with name ct_shaped-885003356
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Люк из берёзы with name ct_shaped-2065394066
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Люк из тёмного дуба with name ct_shaped43975426
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Люк из тропического дерева with name ct_shaped-908028031
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Люк из ели with name ct_shaped1264587134
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Черный Воздушный шар with name ct_shaped504595799
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Черный Воздушный шар with name ct_shaped1592193296
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Губка with name ct_shaped514620619
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Губка with name ct_shaped-1018459736
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ведро with name ct_shaped669812876
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ведро with name ct_shaped24870067
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ведро with name ct_shaped1352648880
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Рассадник монстров with name ct_shaped-1786624963
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Песок with name ct_shapeless343421355
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Красный песок with name ct_shapeless1683992921
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Бирка with name ct_shaped2084430725
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Элитры with name ct_shaped625004537
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Дубовые доски with name ct_shapeless-1722591459
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Семена пшеницы with name ct_shapeless-855810884
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Булыжник with name ct_shapeless1983411708
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Люк with name ct_shaped-1402087607
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nether Star Crux with name ct_shaped-11697388
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dragon Egg Crux with name ct_shaped-233526559
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Awakened Draconium Crux with name ct_shaped113484743
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Строительные леса with name ct_shaped-596731192
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped-510149107
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped925968393
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped1223508938
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped-1553185292
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped-1104526222
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped339192459
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped-919011218
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped301457648
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped356352173
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped1537620812
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped95171375
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped1127431752
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped1906951916
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped2037492657
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Лифт with name ct_shaped-51462605
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Свежая вода with name ct_shapeless514787195
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Самоцветные поножи with name ct_shapeless-2090792985
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Алхимический сундук with name ct_shaped-774835843
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Философский камень with name ct_shaped-100105648
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Часы течения времени with name ct_shaped2140351860
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Knowledge Sharing Book with name ct_shaped-1726016033
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Светокаменная пыль with name ct_shapeless1487178491
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Удобренная земля with name ct_shaped-1672887789
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Удобренная земля with name ct_shaped-485201037
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Живой Шлем with name ct_shaped1309332565
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Живой Нагрудник with name ct_shaped1432790102
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Живые Поножи with name ct_shaped-1576067971
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Живые Ботинки with name ct_shaped-1446052112
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Вис-кристалл Perditio with name ct_shapeless694613914
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Вис-кристалл Aer with name ct_shapeless215956928
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Вис-кристалл Ignis with name ct_shapeless-1906691584
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Вис-кристалл Aqua with name ct_shapeless374330786
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Вис-кристалл Terra with name ct_shapeless-850795328
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Вис-кристалл Ordo with name ct_shapeless111065478
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Вис-кристалл Vitium with name ct_shapeless872034026
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped-343532454
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped-1436915147
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped869610310
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped-2080821449
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped-431145119
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped1891988904
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped930827605
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped1667371302
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped277538975
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped1408448514
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped-139360458
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped-1418303511
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Заметки о небесах with name ct_shaped1069969216
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Блок сжатой плоти with name ct_shaped-1169500730
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Коксовый уголь with name ct_shapeless-169368223
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Блок коксового угля with name ct_shaped2126866997
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Каменная шестерня with name ct_shaped-767187040
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Железная шестерня with name ct_shaped321565558
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Золотая шестерня with name ct_shaped-1048251785
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Алмазная шестерня with name ct_shaped-154971848
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Изумрудная шестерня with name ct_shaped1601545145
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Медная шестерня with name ct_shaped2127795531
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Оловянная шестерня with name ct_shaped1739680460
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Серебряная шестерня with name ct_shaped-674553523
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Свинцовая шестерня with name ct_shaped-2019826738
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Алюминиевая шестерня with name ct_shaped-1967312668
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Никелевая шестерня with name ct_shaped746384741
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Платиновая шестерня with name ct_shaped851237606
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Иридиевая шестерня with name ct_shaped1095971687
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Мифриловая шестерня with name ct_shaped1806223080
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Стальная шестерня with name ct_shaped971235882
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Электрумовая шестерня with name ct_shaped-1958565845
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Инваровая шестерня with name ct_shaped-628450047
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Бронзовая шестерня with name ct_shaped1248166850
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Константановая шестерня with name ct_shaped2070653635
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Синаловая шестерня with name ct_shaped-1128984252
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ламиумовая шестерня with name ct_shaped2037903813
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Эндериумная шестерня with name ct_shaped-214380730
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Стальной слиток with name ct_shaped-744442387
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Стальной слиток with name ct_shaped637488589
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Кусочек алмаза with name ct_shapeless-746669200
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Измельчённое золото with name ct_shapeless-316036002
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Измельчённая медь with name ct_shapeless-535283922
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Измельчённое олово with name ct_shapeless2003020387
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Измельчённый никель with name ct_shapeless1827520248
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Измельчённая платина with name ct_shapeless-2071403040
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Измельчённый иридий with name ct_shapeless-1903043494
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Золотая пластина with name ct_shaped347397050
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Медная пластина with name ct_shaped-242727722
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Серебряная пластина with name ct_shaped1675937764
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Свинцовая пластина with name ct_shaped1810851670
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Алюминиевая пластина with name ct_shaped242901491
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Стальная пластина with name ct_shaped820994135
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Электрумовая пластина with name ct_shaped1941154932
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Константановая пластина with name ct_shaped1767110401
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Оловянная пластина with name ct_shapeless228452241
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Оловянная пластина with name ct_shaped-2008065845
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Платиновая пластина with name ct_shapeless-202696825
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Платиновая пластина with name ct_shaped376176457
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Иридиевая пластина with name ct_shapeless-390653581
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Иридиевая пластина with name ct_shaped797661593
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Мифриловая пластина with name ct_shapeless-510213140
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Мифриловая пластина with name ct_shaped-529603808
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Инваровая пластина with name ct_shapeless-1405607032
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Инваровая пластина with name ct_shaped-1153767504
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Бронзовая пластина with name ct_shapeless-911427715
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Бронзовая пластина with name ct_shaped729422263
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Синаловая пластина with name ct_shapeless-289585451
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Синаловая пластина with name ct_shaped-1502343149
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ламиумовая пластина with name ct_shapeless-1875422441
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ламиумовая пластина with name ct_shaped1007072407
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Эндериумная пластина with name ct_shapeless511328762
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Эндериумная пластина with name ct_shaped-641678308
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Креативный модификатор with name ct_shaped-1559566536
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Грязь из зелёной слизи with name ct_shaped-342176602
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Грязь из синей слизи with name ct_shaped1073674079
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Грязь из фиолетовой слизи with name ct_shaped-446251522
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Грязь из огненной слизи with name ct_shaped1293809821
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Вешалка with name ct_shaped-223932840
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Укреплённый обсидиан with name ct_shaped195359858
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Генератор булыжника with name ct_shaped862370862
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Генератор булыжника with name ct_shaped117110492
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Генератор булыжника with name ct_shaped-1283908776
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Генератор булыжника with name ct_shaped35184734
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Шлем Дракона with name ct_shaped1479346518
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Нагрудник Дракона with name ct_shaped-1037924211
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Поножи Дракона with name ct_shaped298528398
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ботинки Дракона with name ct_shaped-1771766558
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Песок душ with name ct_shapeless-927620648
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Песок душ with name ct_shapeless-767005319
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Кристалл роста with name ct_shaped-1372108245
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Кристалл роста 2-го уровня with name ct_shaped1367087174
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Кристалл роста 3-го уровня with name ct_shaped1060728121
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ведро с бесконечной водой with name ct_shaped-1548344176
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Деревянные ножницы with name ct_shaped-1422499666
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Железное копьё with name ct_shaped-114126050
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Алмазное копьё with name ct_shaped-1147503948
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Алмазный самородок with name ct_shapeless358565946
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <exnihilocreatio:item_ore_aluminium:3>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <exnihilocreatio:item_ore_aluminium:3>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <exnihilocreatio:item_ore_aluminium:3>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <exnihilocreatio:item_ore_aluminium:3>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <exnihilocreatio:item_ore_aluminium:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <exnihilocreatio:item_ore_aluminium:2>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:redstone>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:redstone_block>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <ore:logWood>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <thaumcraft:void_seed>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 2 Mekanism Crusher Recipe(s) for <appliedenergistics2:material:5>, <appliedenergistics2:material:5>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Mekanism Crusher Recipe(s) for <minecraft:sand>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 73 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 6, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <minecraft:dirt>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <minecraft:sand>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <exnihilocreatio:block_dust>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <exnihilocreatio:block_netherrack_crushed>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <exnihilocreatio:block_endstone_crushed>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Enrichment Chamber Recipe(s) for <thermalfoundation:material:68> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 4
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding 93 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding 104 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2, <mekanism:biofuel> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding 8 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4
+[POSTINITIALIZATION][CLIENT][INFO] Adding 50 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3, <mekanism:biofuel> * 3
+[POSTINITIALIZATION][CLIENT][INFO] Adding 46 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4, <mekanism:biofuel> * 4
+[POSTINITIALIZATION][CLIENT][INFO] Adding 2 Mekanism Crusher Recipe(s) for <mekanism:biofuel> * 2, <mekanism:biofuel> * 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Separator Recipe(s) for [<gas:deuterium>, <gas:tritium>]
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Removing 0 Crusher Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Crusher Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Crusher Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Crusher Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Crusher Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <minecraft:cobblestone>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <minecraft:gravel>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <minecraft:cobblestone>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <minecraft:gravel>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <minecraft:sand> and <exnihilocreatio:item_ore_aluminium:2>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:865> and <exnihilocreatio:item_ore_aluminium:1>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:866> and <exnihilocreatio:item_ore_aluminium:1>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <minecraft:sand> and <exnihilocreatio:item_ore_aluminium:1>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <minecraft:netherrack>
+[AVAILABLE][CLIENT][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:arrow>
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@30bc4e52"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1d2dd855"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@13d492c8"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@41085e5d"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@558dcf6"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@76c45378"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3f2bb429"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@16ceb9f3"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6eb1315e"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3de802c6"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5f0073ae"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3ce2589c"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5b3eb59f"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@26bd720c"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7a7ce876"
+[AVAILABLE][CLIENT][INFO] Adding 1 MiningLens Recipe(s) for oreInferium
+[AVAILABLE][CLIENT][INFO] Adding 1 MiningLens Recipe(s) for oreProsperity
+[AVAILABLE][CLIENT][INFO] Adding 1 MiningLens Recipe(s) for oreCinnabar
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@116f38ad"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6c765b48"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3b487a93"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7b5a178f"
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <appliedenergistics2:material:15>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <appliedenergistics2:material:14>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <appliedenergistics2:material:13>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <appliedenergistics2:material:19>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <appliedenergistics2:material:19>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <appliedenergistics2:material:2>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <appliedenergistics2:material:3>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <appliedenergistics2:material:8>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <appliedenergistics2:material:46>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <enderio:item_alloy_ingot>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <enderio:item_alloy_ingot>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <minecraft:gravel>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <minecraft:dirt>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <minecraft:sand>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <exnihilocreatio:block_dust>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <exnihilocreatio:block_netherrack_crushed>
+[AVAILABLE][CLIENT][INFO] Altering Crusher Recipe(s) for <exnihilocreatio:block_endstone_crushed>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <projecte:item.pe_covalence_dust> * 40
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <projecte:item.pe_covalence_dust:1> * 40
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <projecte:item.pe_covalence_dust:2> * 40
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <projecte:item.pe_repair_talisman>
+[AVAILABLE][CLIENT][INFO] Adding infusion recipe for: 1xitem.curio@6
+[AVAILABLE][CLIENT][INFO] Adding infusion recipe for: 1xitem.void_seed@0
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <minecraft:gravel>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <minecraft:dirt>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <minecraft:sand>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <exnihilocreatio:block_dust>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:grains_of_infinity_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:grains_of_infinity_essence> * 2
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:grains_of_infinity_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:132> * 3
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:132> * 3
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:132> * 2
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:132>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <exnihilocreatio:block_netherrack_crushed>
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <exnihilocreatio:block_endstone_crushed>
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:iron> * 648
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:iron> * 540
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:gold> * 648
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:stone> * 648
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:stone> * 5832
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:stone> * 52488
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:stone> * 472392
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:stone> * 4251528
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:stone> * 38263752
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:dirt> * 648
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:dirt> * 5832
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:dirt> * 52488
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:dirt> * 472392
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <minecraft:coal_block>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:slime:1>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:slime:2>
+[AVAILABLE][CLIENT][INFO] Added new pool dragonEgg to table mightyenderchicken:ender_chicken
+[AVAILABLE][CLIENT][INFO] Added new pool dragonHeart to table mightyenderchicken:ender_chicken
+[AVAILABLE][CLIENT][INFO] Added new pool dragonScale to table mightyenderchicken:ender_chicken
+[AVAILABLE][CLIENT][INFO] Added new pool dragonHeart to table mightyenderchicken:chaos_chicken
+[AVAILABLE][CLIENT][INFO] Added new pool chaosShard to table mightyenderchicken:chaos_chicken
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_helm_emerald>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_chest_emerald>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_pants_emerald>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_boots_emerald>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_helm_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_chest_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_pants_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_boots_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_pickaxe_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_axe_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_shovel_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_sword_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_hoe_obsidian>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_misc:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_misc:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_coffee_machine>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_coffee>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_coffee_seed>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_coffee_beans>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:10>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:11>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:15>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:16>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:18>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:19>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:20>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_resonant_rice>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_misc:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_furnace_solar>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <flyringbaublemod:birdcage>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <flyringbaublemod:birdcage:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <flyringbaublemod:pair>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:material:40>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <buildcraftcore:gear_wood>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <buildcraftcore:gear_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <buildcraftcore:gear_iron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <buildcraftcore:gear_gold>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <buildcraftcore:gear_diamond>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ceramics:unfired_clay:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <chisel:block_charcoal2:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_helmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_chestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_leggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_boots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:tool_warp_spawn>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:tool_warp_home>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <enderio:item_material:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <enderio:item_material:10>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <enderio:block_solar_panel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <enderio:block_solar_panel:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <enderio:block_solar_panel:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <enderio:block_solar_panel:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:iron_mesh>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:uncompressed_coal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:compressed_block:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:compressed_block:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:compressed_block:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:compressed_block:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:compressed_block:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_sieve>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:heavy_sieve>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:heavy_sieve:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:heavy_sieve:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:heavy_sieve:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:heavy_sieve:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <excompressum:heavy_sieve:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_oak>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_spruce>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_birch>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_jungle>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_acacia>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_seed_darkoak>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_end_cake>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_auto_sifter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_axle_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_waterwheel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_grinder>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_material:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:crook_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_material:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:teleporter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:teleporter:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:passivegenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:passivegenerator:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:snowglobe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:suncrystal:250>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hatchery:fertilized_dirt>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hatchery:sprayer>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:material:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:stone_decoration:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:nether_inferium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:nether_prosperity_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:brore:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <draconicevolution:draconium_ore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:brore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelpaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:lapislazulipaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:osmiumpaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:glowstonepaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:goldpaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:diamondpaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:ironpaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:stonepaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:woodpaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzehelmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzechestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeleggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeboots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzepaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzepickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeshovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzehoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzesword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianhelmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianchestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianleggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianboots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianpaxel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianpickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianshovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidianhoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:obsidiansword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanism:basicblock:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanism:basicblock:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanism:basicblock:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanism:basicblock:12>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanism:basicblock:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismgenerators:solarpanel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <microblockcbe:stone_rod>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <harvestcraft:shippingbin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:refined_link>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:compressed_refined_link>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:10>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:matter:11>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectex:final_star_shard>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projectred-expansion:solar_panel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:storage_kabel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:ex_kabel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:im_kabel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:process_kabel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:controller>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:upgrade:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:upgrade:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:upgrade:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:remote>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:emerald_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:emerald_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:emerald_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:emerald_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:emerald_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:emerald_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:emerald_battle>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:flint_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:golden_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:diamond_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:iron_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:stone_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:wooden_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:obsidian_multi>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:charcoal_block>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_rod>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_iron_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_iron_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_iron_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_iron_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_iron_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_gold_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_gold_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_gold_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_gold_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_gold_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_diamond_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_diamond_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_diamond_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_diamond_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:bsc_diamond_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_rod>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_diamond_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_diamond_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_diamond_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_diamond_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_diamond_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_iron_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_iron_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_iron_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_iron_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_iron_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_gold_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_gold_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_gold_spade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_gold_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:nether_gold_sword>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool dragonEgg to table mightyenderchicken:ender_chicken
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool dragonHeart to table mightyenderchicken:ender_chicken
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool dragonScale to table mightyenderchicken:ender_chicken
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool dragonHeart to table mightyenderchicken:chaos_chicken
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool chaosShard to table mightyenderchicken:chaos_chicken
+[SERVER_STARTING][SERVER][INFO] Added new pool dragonEgg to table mightyenderchicken:ender_chicken
+[SERVER_STARTING][SERVER][INFO] Added new pool dragonHeart to table mightyenderchicken:ender_chicken
+[SERVER_STARTING][SERVER][INFO] Added new pool dragonScale to table mightyenderchicken:ender_chicken
+[SERVER_STARTING][SERVER][INFO] Added new pool dragonHeart to table mightyenderchicken:chaos_chicken
+[SERVER_STARTING][SERVER][INFO] Added new pool chaosShard to table mightyenderchicken:chaos_chicken
+--- JEI Categories ---
+minecraft.crafting
+minecraft.fuel
+minecraft.smelting
+minecraft.brewing
+minecraft.anvil
+buildcraft:category_heatable
+buildcraft:category_distiller
+buildcraft:category_coolable
+buildcraft-compat:engine.combustion
+buildcraft-compat:silicon.assembly
+jeresources.plant
+jeresources.worldgen
+jeresources.mob
+jeresources.enchantment
+jeresources.dungeon
+jeresources.villager
+Imbuing
+chisel.chiseling
+pe.worldtransmute
+pe.collector
+ie.cokeoven
+ie.alloysmelter
+ie.blastfurnace
+ie.blastfurnace.fuel
+ie.metalPress
+ie.crusher
+ie.workbench
+ie.squeezer
+ie.fermenter
+ie.refinery
+ie.arcFurnace
+ie.arcFurnace.recycling
+ie.bottlingMachine
+ie.mixer
+excompressum:compressedHammer
+excompressum:woodenCrucible
+excompressum:chickenStick
+integrateddynamicscompat:dryingBasin
+integrateddynamicscompat:squeezer
+integrateddynamicscompat:mechanicalDryingBasin
+integrateddynamicscompat:mechanicalSqueezer
+farmingforblockheads:market
+actuallyadditions.compost
+actuallyadditions.crushing
+actuallyadditions.reconstructor
+actuallyadditions.empowerer
+actuallyadditions.booklet
+hydrator
+packager
+dehydrator
+melter
+solidifier
+Painter
+appliedenergistics2.grinder
+appliedenergistics2.condenser
+appliedenergistics2.inscriber
+thermalexpansion.furnace
+thermalexpansion.furnace_food
+thermalexpansion.furnace_ore
+thermalexpansion.furnace_pyrolysis
+thermalexpansion.pulverizer
+thermalexpansion.pulverizer_petrotheum
+thermalexpansion.sawmill
+thermalexpansion.sawmill_tapper
+thermalexpansion.smelter
+thermalexpansion.smelter_pyrotheum
+thermalexpansion.insolator
+thermalexpansion.insolator_tree
+thermalexpansion.compactor
+thermalexpansion.compactor_mint
+thermalexpansion.compactor_gear
+thermalexpansion.crucible
+thermalexpansion.crucible_lava
+thermalexpansion.refinery
+thermalexpansion.refinery_fossil
+thermalexpansion.refinery_potion
+thermalexpansion.transposer_fill
+thermalexpansion.transposer_extract
+thermalexpansion.charger
+thermalexpansion.centrifuge
+thermalexpansion.centrifuge_mobs
+thermalexpansion.brewer
+thermalexpansion.enchanter
+thermalexpansion.precipitator
+thermalexpansion.extruder
+thermalexpansion.extruder_sedimentary
+thermalexpansion.steam
+thermalexpansion.magmatic
+thermalexpansion.compression
+thermalexpansion.reactant
+thermalexpansion.reactant_elemental
+thermalexpansion.enervation
+thermalexpansion.numismatic
+thermalexpansion.numismatic_gem
+thermalexpansion.factorizer_combine
+thermalexpansion.factorizer_split
+thermalexpansion.coolant
+stoneblockutilities:crook
+stoneblockutilities:hand
+hatchery.nesting_pen.drops
+hatchery.shredder.recipe
+hatchery.luckyeggs.drop
+hatchery.eggmachine.egg
+hatchery.fertilizermixer.recipe
+hatchery.generator.recipe
+chickens.Laying
+chickens.Breeding
+chickens.Drops
+chickens.Throws
+chickens.Henhousing
+Avatitia.Extreme
+Avatitia.Compressor
+roost.breeding
+roost.catching
+roost.roosting
+fluidcows.breeding
+fluidcows.cowresult
+fluidcows.accelerator
+DraconicEvolution.Fusion
+compactmachines3.MultiblockMiniaturization
+mekanism.chemicalcrystallizer
+mekanism.chemicaldissolutionchamber
+mekanism.chemicalinfuser
+mekanism.chemicaloxidizer
+mekanism.chemicalwasher
+mekanism.electrolyticseparator
+mekanism.metallurgicinfuser
+mekanism.pressurizedreactionchamber
+mekanism.rotary_condensentrator_condensentrating
+mekanism.rotary_condensentrator_decondensentrating
+mekanism.combiner
+mekanism.purificationchamber
+mekanism.osmiumcompressor
+mekanism.chemicalinjectionchamber
+mekanism.precisionsawmill
+mekanism.enrichmentchamber
+mekanism.crusher
+mekanism.thermalevaporationplant
+bonsaitrees.Growing
+iceandfire.fire_dragon_forge
+iceandfire.ice_dragon_forge
+thermaldynamics.covers
+ftbquests.lootcrates
+ebwizardry:arcane_workbench
+ebwizardry:imbuement_altar
+THAUMCRAFT_ARCANE_WORKBENCH
+THAUMCRAFT_CRUCIBLE
+THAUMCRAFT_INFUSION
+THAUMCRAFT_ASPECT_COMPOUND
+THAUMCRAFT_ASPECT_FROM_ITEMSTACK
+environmentaltech.voidminer.botanic.t1
+environmentaltech.voidminer.botanic.t2
+environmentaltech.voidminer.botanic.t3
+environmentaltech.voidminer.botanic.t4
+environmentaltech.voidminer.botanic.t5
+environmentaltech.voidminer.botanic.t6
+environmentaltech.voidminer.ore.t1
+environmentaltech.voidminer.ore.t2
+environmentaltech.voidminer.ore.t3
+environmentaltech.voidminer.ore.t4
+environmentaltech.voidminer.ore.t5
+environmentaltech.voidminer.ore.t6
+environmentaltech.voidminer.resource.t1
+environmentaltech.voidminer.resource.t2
+environmentaltech.voidminer.resource.t3
+environmentaltech.voidminer.resource.t4
+environmentaltech.voidminer.resource.t5
+environmentaltech.voidminer.resource.t6
+exnihilocreatio:hammer
+exnihilocreatio:crook
+exnihilocreatio:fluid_on_top
+exnihilocreatio:fluid_transform
+exnihilocreatio:fluid_block_transform
+exnihilocreatio:compost
+exnihilocreatio:crucible_wood
+exnihilocreatio:crucible_stone
+exnihilocreatio:heat_sources
+jehc.presser
+jehc.market
+jehc.apiary
+jehc.ground_trap
+jehc.water_trap
+jehc.grinder
+jehc.waterfilter
+tconstruct.smeltery
+tconstruct.alloy
+tconstruct.casting_table
+tconstruct.dryingrack
+mysticalagriculture:reprocessor_jei
+mysticalagriculture:tinkering_table_jei
+cookingforblockheads.cowjar
+flux
+sludge_refiner_category
+bioreactor_accepted_items
+protein_reactor_accepted_items
+laser_category
+machine_produce_category
+petrified_burn_time
+fluid_dictionary
+stone_work_factory
+EXTRACTOR_RECIPE
+if_manual_category
+ORE_WASHER
+ORE_FERMENTER
+ORE_SIEVE
+infinityPowder
+botania.brewery
+botania.pureDaisy
+botania.runicAltar
+botania.petals
+botania.elvenTrade
+botania.manaPool
+botania.orechid
+botania.orechid_ignem
+spawner_modification
+mysticalagradditions:tier_6_crop_jei
+jei.information
+AlloySmelter
+CombustionGenerator
+Enchanter
+SagMill
+GrindingBall
+SliceNSPlice
+SoulBinder
+StirlingGenerator
+EIOTank
+Vat
+EIOWC
+EIOWO
+ZombieGenerator
+EnderGenerator
+LavaGenerator
+extrautils2.blockPatterns
+extrautils2.terraformer
+extrautils2.resonator
+xu2_machine_extrautils2:furnace
+xu2_machine_extrautils2:crusher
+xu2_machine_extrautils2:enchanter
+xu2_machine_extrautils2:generator_survival
+xu2_machine_extrautils2:generator
+xu2_machine_extrautils2:generator_culinary
+xu2_machine_extrautils2:generator_lava
+xu2_machine_extrautils2:generator_redstone
+xu2_machine_extrautils2:generator_ender
+xu2_machine_extrautils2:generator_potion
+xu2_machine_extrautils2:generator_pink
+xu2_machine_extrautils2:generator_overclock
+xu2_machine_extrautils2:generator_tnt
+xu2_machine_extrautils2:generator_netherstar
+xu2_machine_extrautils2:generator_dragonsbreath
+xu2_machine_extrautils2:generator_ice
+xu2_machine_extrautils2:generator_death
+xu2_machine_extrautils2:generator_enchant
+xu2_machine_extrautils2:generator_slime
+--- JEI Categories ---
+minecraft.crafting
+minecraft.fuel
+minecraft.smelting
+minecraft.brewing
+minecraft.anvil
+buildcraft:category_heatable
+buildcraft:category_distiller
+buildcraft:category_coolable
+buildcraft-compat:engine.combustion
+buildcraft-compat:silicon.assembly
+jeresources.plant
+jeresources.worldgen
+jeresources.mob
+jeresources.enchantment
+jeresources.dungeon
+jeresources.villager
+Imbuing
+chisel.chiseling
+pe.worldtransmute
+pe.collector
+ie.cokeoven
+ie.alloysmelter
+ie.blastfurnace
+ie.blastfurnace.fuel
+ie.metalPress
+ie.crusher
+ie.workbench
+ie.squeezer
+ie.fermenter
+ie.refinery
+ie.arcFurnace
+ie.arcFurnace.recycling
+ie.bottlingMachine
+ie.mixer
+excompressum:compressedHammer
+excompressum:woodenCrucible
+excompressum:chickenStick
+integrateddynamicscompat:dryingBasin
+integrateddynamicscompat:squeezer
+integrateddynamicscompat:mechanicalDryingBasin
+integrateddynamicscompat:mechanicalSqueezer
+farmingforblockheads:market
+actuallyadditions.compost
+actuallyadditions.crushing
+actuallyadditions.reconstructor
+actuallyadditions.empowerer
+actuallyadditions.booklet
+hydrator
+packager
+dehydrator
+melter
+solidifier
+Painter
+appliedenergistics2.grinder
+appliedenergistics2.condenser
+appliedenergistics2.inscriber
+thermalexpansion.furnace
+thermalexpansion.furnace_food
+thermalexpansion.furnace_ore
+thermalexpansion.furnace_pyrolysis
+thermalexpansion.pulverizer
+thermalexpansion.pulverizer_petrotheum
+thermalexpansion.sawmill
+thermalexpansion.sawmill_tapper
+thermalexpansion.smelter
+thermalexpansion.smelter_pyrotheum
+thermalexpansion.insolator
+thermalexpansion.insolator_tree
+thermalexpansion.compactor
+thermalexpansion.compactor_mint
+thermalexpansion.compactor_gear
+thermalexpansion.crucible
+thermalexpansion.crucible_lava
+thermalexpansion.refinery
+thermalexpansion.refinery_fossil
+thermalexpansion.refinery_potion
+thermalexpansion.transposer_fill
+thermalexpansion.transposer_extract
+thermalexpansion.charger
+thermalexpansion.centrifuge
+thermalexpansion.centrifuge_mobs
+thermalexpansion.brewer
+thermalexpansion.enchanter
+thermalexpansion.precipitator
+thermalexpansion.extruder
+thermalexpansion.extruder_sedimentary
+thermalexpansion.steam
+thermalexpansion.magmatic
+thermalexpansion.compression
+thermalexpansion.reactant
+thermalexpansion.reactant_elemental
+thermalexpansion.enervation
+thermalexpansion.numismatic
+thermalexpansion.numismatic_gem
+thermalexpansion.factorizer_combine
+thermalexpansion.factorizer_split
+thermalexpansion.coolant
+stoneblockutilities:crook
+stoneblockutilities:hand
+hatchery.nesting_pen.drops
+hatchery.shredder.recipe
+hatchery.luckyeggs.drop
+hatchery.eggmachine.egg
+hatchery.fertilizermixer.recipe
+hatchery.generator.recipe
+chickens.Laying
+chickens.Breeding
+chickens.Drops
+chickens.Throws
+chickens.Henhousing
+Avatitia.Extreme
+Avatitia.Compressor
+roost.breeding
+roost.catching
+roost.roosting
+fluidcows.breeding
+fluidcows.cowresult
+fluidcows.accelerator
+DraconicEvolution.Fusion
+compactmachines3.MultiblockMiniaturization
+mekanism.chemicalcrystallizer
+mekanism.chemicaldissolutionchamber
+mekanism.chemicalinfuser
+mekanism.chemicaloxidizer
+mekanism.chemicalwasher
+mekanism.electrolyticseparator
+mekanism.metallurgicinfuser
+mekanism.pressurizedreactionchamber
+mekanism.rotary_condensentrator_condensentrating
+mekanism.rotary_condensentrator_decondensentrating
+mekanism.combiner
+mekanism.purificationchamber
+mekanism.osmiumcompressor
+mekanism.chemicalinjectionchamber
+mekanism.precisionsawmill
+mekanism.enrichmentchamber
+mekanism.crusher
+mekanism.thermalevaporationplant
+bonsaitrees.Growing
+iceandfire.fire_dragon_forge
+iceandfire.ice_dragon_forge
+thermaldynamics.covers
+ftbquests.lootcrates
+ebwizardry:arcane_workbench
+ebwizardry:imbuement_altar
+THAUMCRAFT_ARCANE_WORKBENCH
+THAUMCRAFT_CRUCIBLE
+THAUMCRAFT_INFUSION
+THAUMCRAFT_ASPECT_COMPOUND
+THAUMCRAFT_ASPECT_FROM_ITEMSTACK
+environmentaltech.voidminer.botanic.t1
+environmentaltech.voidminer.botanic.t2
+environmentaltech.voidminer.botanic.t3
+environmentaltech.voidminer.botanic.t4
+environmentaltech.voidminer.botanic.t5
+environmentaltech.voidminer.botanic.t6
+environmentaltech.voidminer.ore.t1
+environmentaltech.voidminer.ore.t2
+environmentaltech.voidminer.ore.t3
+environmentaltech.voidminer.ore.t4
+environmentaltech.voidminer.ore.t5
+environmentaltech.voidminer.ore.t6
+environmentaltech.voidminer.resource.t1
+environmentaltech.voidminer.resource.t2
+environmentaltech.voidminer.resource.t3
+environmentaltech.voidminer.resource.t4
+environmentaltech.voidminer.resource.t5
+environmentaltech.voidminer.resource.t6
+exnihilocreatio:hammer
+exnihilocreatio:crook
+exnihilocreatio:fluid_on_top
+exnihilocreatio:fluid_transform
+exnihilocreatio:fluid_block_transform
+exnihilocreatio:compost
+exnihilocreatio:crucible_wood
+exnihilocreatio:crucible_stone
+exnihilocreatio:heat_sources
+jehc.presser
+jehc.market
+jehc.apiary
+jehc.ground_trap
+jehc.water_trap
+jehc.grinder
+jehc.waterfilter
+tconstruct.smeltery
+tconstruct.alloy
+tconstruct.casting_table
+tconstruct.dryingrack
+mysticalagriculture:reprocessor_jei
+mysticalagriculture:tinkering_table_jei
+cookingforblockheads.cowjar
+flux
+sludge_refiner_category
+bioreactor_accepted_items
+protein_reactor_accepted_items
+laser_category
+machine_produce_category
+petrified_burn_time
+fluid_dictionary
+stone_work_factory
+EXTRACTOR_RECIPE
+if_manual_category
+ORE_WASHER
+ORE_FERMENTER
+ORE_SIEVE
+infinityPowder
+botania.brewery
+botania.pureDaisy
+botania.runicAltar
+botania.petals
+botania.elvenTrade
+botania.manaPool
+botania.orechid
+botania.orechid_ignem
+spawner_modification
+mysticalagradditions:tier_6_crop_jei
+jei.information
+AlloySmelter
+CombustionGenerator
+Enchanter
+SagMill
+GrindingBall
+SliceNSPlice
+SoulBinder
+StirlingGenerator
+EIOTank
+Vat
+EIOWC
+EIOWO
+ZombieGenerator
+EnderGenerator
+LavaGenerator
+extrautils2.blockPatterns
+extrautils2.terraformer
+extrautils2.resonator
+xu2_machine_extrautils2:furnace
+xu2_machine_extrautils2:crusher
+xu2_machine_extrautils2:enchanter
+xu2_machine_extrautils2:generator_survival
+xu2_machine_extrautils2:generator
+xu2_machine_extrautils2:generator_culinary
+xu2_machine_extrautils2:generator_lava
+xu2_machine_extrautils2:generator_redstone
+xu2_machine_extrautils2:generator_ender
+xu2_machine_extrautils2:generator_potion
+xu2_machine_extrautils2:generator_pink
+xu2_machine_extrautils2:generator_overclock
+xu2_machine_extrautils2:generator_tnt
+xu2_machine_extrautils2:generator_netherstar
+xu2_machine_extrautils2:generator_dragonsbreath
+xu2_machine_extrautils2:generator_ice
+xu2_machine_extrautils2:generator_death
+xu2_machine_extrautils2:generator_enchant
+xu2_machine_extrautils2:generator_slime
+<tp:obsidian_sword>
+<tp:obsidian_pickaxe>
+<tp:obsidian_axe>
+<tp:obsidian_hoe>
+<tp:obsidian_spade>
+<tp:dragon_scale> * 64
+<mysticalagradditions:stuff:3> * 64
+Entities:
+appliedenergistics2:appeng.entity.entitychargedquartz -- EntityChargedQuartz
+appliedenergistics2:appeng.entity.entitygrowingcrystal -- EntityGrowingCrystal
+appliedenergistics2:appeng.entity.entitysingularity -- EntitySingularity
+appliedenergistics2:appeng.entity.entitytinytntprimed -- EntityTinyTNTPrimed
+avaritia:endest_pearl -- EndestPearl
+avaritia:gaping_void -- GapingVoid
+avaritia:heaven_arrow -- HeavenArrow
+avaritia:heaven_sub_arrow -- HeavenSubArrow
+biomesoplenty:bop_boat -- bop_boat
+biomesoplenty:mudball -- mudball
+biomesoplenty:wasp -- wasp
+botania:babylon_weapon -- botania:babylonWeapon
+botania:corporea_spark -- botania:corporeaSpark
+botania:doppleganger -- botania:doppleganger
+botania:ender_air_bottle -- botania:enderAirBottle
+botania:falling_star -- botania:fallingStar
+botania:flame_ring -- botania:flameRing
+botania:magic_landmine -- botania:magicLandmine
+botania:magic_missile -- botania:magicMissile
+botania:mana_burst -- botania:manaBurst
+botania:mana_storm -- botania:manaStorm
+botania:pink_wither -- botania:pinkWither
+botania:pixie -- botania:pixie
+botania:player_mover -- botania:playerMover
+botania:pool_minecart -- botania:poolMinecart
+botania:signal_flare -- botania:signalFlare
+botania:spark -- botania:spark
+botania:thorn_chakram -- botania:thornChakram
+botania:thrown_item -- botania:thrownItem
+botania:vine_ball -- botania:vineBall
+buildinggadgets:blockbuildentity -- LaserGunEntity
+buildinggadgets:constructionblockentity -- ConstructionBlockEntity
+chickens:chickenschicken -- chickenschicken
+chickens:thown_egg -- chickenschicken
+clumps:xp_orb_big -- xp_orb_big
+cyclicmagic:blazebolt -- cyclicmagic.blazebolt
+cyclicmagic:dungeonbolt -- cyclicmagic.dungeonbolt
+cyclicmagic:ender_eye_orb -- cyclicmagic.ender_eye_orb
+cyclicmagic:firecannon -- firecannon
+cyclicmagic:frostbolt -- cyclicmagic.frostbolt
+cyclicmagic:golddropperminecart -- cyclicmagic.golddropperminecart
+cyclicmagic:goldfurnaceminecart -- cyclicmagic.goldfurnaceminecart
+cyclicmagic:goldminecart -- cyclicmagic.goldminecart
+cyclicmagic:lightningbolt -- cyclicmagic.lightningbolt
+cyclicmagic:magic_missile -- cyclicmagic.magic_missile
+cyclicmagic:magicnetempty -- cyclicmagic.magicnetempty
+cyclicmagic:magicnetfull -- cyclicmagic.magicnetfull
+cyclicmagic:robot -- robot
+cyclicmagic:slingshot_bullet -- cyclicmagic.slingshot_bullet
+cyclicmagic:stoneminecart -- cyclicmagic.stoneminecart
+cyclicmagic:tntblocksafebolt -- cyclicmagic.tntblocksafebolt
+cyclicmagic:tntbolt -- cyclicmagic.tntbolt
+cyclicmagic:tntminingbolt -- cyclicmagic.tntminingbolt
+cyclicmagic:torchbolt -- cyclicmagic.torchbolt
+cyclicmagic:turretminecart -- cyclicmagic.turretminecart
+cyclicmagic:woolbolt -- cyclicmagic.woolbolt
+darkutils:fake_tnt -- FakeTNT
+draconicevolution:chaosguardian -- draconicevolution:ChaosGuardian
+draconicevolution:customarrow -- draconicevolution:CustomArrow
+draconicevolution:dragonheartitem -- draconicevolution:DragonHeartItem
+draconicevolution:enderenergymanipulator -- draconicevolution:EnderEnergyManipulator
+draconicevolution:entitychaosenergyvortex -- draconicevolution:EntityChaosEnergyVortex
+draconicevolution:guardiancrystal -- draconicevolution:GuardianCrystal
+draconicevolution:guardianprojectile -- draconicevolution:GuardianProjectile
+draconicevolution:lootcore -- draconicevolution:LootCore
+draconicevolution:persistentitem -- draconicevolution:PersistentItem
+ebwizardry:arrow_rain -- ebwizardry:arrow_rain
+ebwizardry:black_hole -- ebwizardry:black_hole
+ebwizardry:blaze_minion -- ebwizardry:blaze_minion
+ebwizardry:blizzard -- ebwizardry:blizzard
+ebwizardry:boulder -- ebwizardry:boulder
+ebwizardry:bubble -- ebwizardry:bubble
+ebwizardry:combustion_rune -- ebwizardry:combustion_rune
+ebwizardry:conjured_arrow -- ebwizardry:conjured_arrow
+ebwizardry:darkness_orb -- ebwizardry:darkness_orb
+ebwizardry:dart -- ebwizardry:dart
+ebwizardry:decay -- ebwizardry:decay
+ebwizardry:decoy -- ebwizardry:decoy
+ebwizardry:earthquake -- ebwizardry:earthquake
+ebwizardry:ember -- ebwizardry:ember
+ebwizardry:evil_wizard -- ebwizardry:evil_wizard
+ebwizardry:fire_sigil -- ebwizardry:fire_sigil
+ebwizardry:firebolt -- ebwizardry:firebolt
+ebwizardry:firebomb -- ebwizardry:firebomb
+ebwizardry:flamecatcher_arrow -- ebwizardry:flamecatcher_arrow
+ebwizardry:force_arrow -- ebwizardry:force_arrow
+ebwizardry:force_orb -- ebwizardry:force_orb
+ebwizardry:forcefield -- ebwizardry:forcefield
+ebwizardry:frost_sigil -- ebwizardry:frost_sigil
+ebwizardry:hailstorm -- ebwizardry:hailstorm
+ebwizardry:healing_aura -- ebwizardry:healing_aura
+ebwizardry:husk_minion -- ebwizardry:husk_minion
+ebwizardry:ice_barrier -- ebwizardry:ice_barrier
+ebwizardry:ice_charge -- ebwizardry:ice_charge
+ebwizardry:ice_giant -- ebwizardry:ice_giant
+ebwizardry:ice_lance -- ebwizardry:ice_lance
+ebwizardry:ice_shard -- ebwizardry:ice_shard
+ebwizardry:ice_spike -- ebwizardry:ice_spike
+ebwizardry:ice_wraith -- ebwizardry:ice_wraith
+ebwizardry:iceball -- ebwizardry:iceball
+ebwizardry:large_magic_fireball -- ebwizardry:large_magic_fireball
+ebwizardry:levitating_block -- ebwizardry:levitating_block
+ebwizardry:lightning_arrow -- ebwizardry:lightning_arrow
+ebwizardry:lightning_disc -- ebwizardry:lightning_disc
+ebwizardry:lightning_hammer -- ebwizardry:lightning_hammer
+ebwizardry:lightning_sigil -- ebwizardry:lightning_sigil
+ebwizardry:lightning_wraith -- ebwizardry:lightning_wraith
+ebwizardry:magic_fireball -- ebwizardry:magic_fireball
+ebwizardry:magic_missile -- ebwizardry:magic_missile
+ebwizardry:magic_slime -- ebwizardry:magic_slime
+ebwizardry:meteor -- ebwizardry:meteor
+ebwizardry:phoenix -- ebwizardry:phoenix
+ebwizardry:poison_bomb -- ebwizardry:poison_bomb
+ebwizardry:radiant_totem -- ebwizardry:radiant_totem
+ebwizardry:remnant -- ebwizardry:remnant
+ebwizardry:ring_of_fire -- ebwizardry:ring_of_fire
+ebwizardry:shadow_wraith -- ebwizardry:shadow_wraith
+ebwizardry:shield -- ebwizardry:shield
+ebwizardry:silverfish_minion -- ebwizardry:silverfish_minion
+ebwizardry:skeleton_minion -- ebwizardry:skeleton_minion
+ebwizardry:smoke_bomb -- ebwizardry:smoke_bomb
+ebwizardry:spark -- ebwizardry:spark
+ebwizardry:spark_bomb -- ebwizardry:spark_bomb
+ebwizardry:spectral_golem -- ebwizardry:spectral_golem
+ebwizardry:spider_minion -- ebwizardry:spider_minion
+ebwizardry:spirit_horse -- ebwizardry:spirit_horse
+ebwizardry:spirit_wolf -- ebwizardry:spirit_wolf
+ebwizardry:storm_elemental -- ebwizardry:storm_elemental
+ebwizardry:stormcloud -- ebwizardry:stormcloud
+ebwizardry:stray_minion -- ebwizardry:stray_minion
+ebwizardry:thunderbolt -- ebwizardry:thunderbolt
+ebwizardry:tornado -- ebwizardry:tornado
+ebwizardry:vex_minion -- ebwizardry:vex_minion
+ebwizardry:wither_skeleton_minion -- ebwizardry:wither_skeleton_minion
+ebwizardry:withering_totem -- ebwizardry:withering_totem
+ebwizardry:wizard -- ebwizardry:wizard
+ebwizardry:zombie_minion -- ebwizardry:zombie_minion
+ebwizardry:zombie_spawner -- ebwizardry:zombie_spawner
+enderio:falling_machine -- enderio.falling_machine
+enderio:owl_egg -- enderio.owl_egg
+enderio:primed_charge -- enderio.primed_charge
+enderiomachines:weather_rocket -- weather_rocket
+excompressum:angry_chicken -- AngryChicken
+exnihilocreatio:thrown stone -- Thrown Stone
+extrautils2:boomerang -- boomerang
+extrautils2:chunkdata -- chunkdata
+farmingforblockheads:merchant -- merchant
+fluidcows:fluidcow -- fluidcows.fluidcow
+fluxnetworks:flux -- Flux
+hatchery:roosterentity -- Rooster
+hatchery:thrownegg -- HatcheryEgg
+iceandfire:amphithere -- amphithere
+iceandfire:amphitherearrow -- amphitherearrow
+iceandfire:chaintie -- chaintie
+iceandfire:cyclops -- cyclops
+iceandfire:deathworm -- deathworm
+iceandfire:deathwormegg -- deathwormegg
+iceandfire:dragonarrow -- dragonarrow
+iceandfire:dragonegg -- dragonegg
+iceandfire:dragonfirecharge -- dragonfirecharge
+iceandfire:dragonicecharge -- dragonicecharge
+iceandfire:dragonskull -- dragonskull
+iceandfire:dread_beast -- dread_beast
+iceandfire:dread_ghoul -- dread_ghoul
+iceandfire:dread_horse -- dread_horse
+iceandfire:dread_knight -- dread_knight
+iceandfire:dread_lich -- dread_lich
+iceandfire:dread_lich_skull -- dread_lich_skull
+iceandfire:dread_scuttler -- dread_scuttler
+iceandfire:dread_thrall -- dread_thrall
+iceandfire:firedragon -- firedragon
+iceandfire:gorgon -- gorgon
+iceandfire:hippocampus -- hippocampus
+iceandfire:hippogryph -- hippogryph
+iceandfire:hippogryphegg -- hippogryphegg
+iceandfire:hydra_arrow -- hydra_arrow
+iceandfire:hydra_breath -- hydra_breath
+iceandfire:icedragon -- icedragon
+iceandfire:if_cockatrice -- if_cockatrice
+iceandfire:if_cockatriceegg -- if_cockatriceegg
+iceandfire:if_hydra -- if_hydra
+iceandfire:if_mob_skull -- if_mob_skull
+iceandfire:if_pixie -- if_pixie
+iceandfire:if_troll -- if_troll
+iceandfire:myrmex_egg -- myrmex_egg
+iceandfire:myrmex_queen -- myrmex_queen
+iceandfire:myrmex_royal -- myrmex_royal
+iceandfire:myrmex_sentinel -- myrmex_sentinel
+iceandfire:myrmex_soldier -- myrmex_soldier
+iceandfire:myrmex_swarmer -- myrmex_swarmer
+iceandfire:myrmex_worker -- myrmex_worker
+iceandfire:pixiecharge -- pixiecharge
+iceandfire:seaserpent -- seaserpent
+iceandfire:seaserpentarrow -- seaserpentarrow
+iceandfire:seaserpentbubble -- seaserpentbubble
+iceandfire:siren -- siren
+iceandfire:snowvillager -- snowvillager
+iceandfire:stonestatue -- stonestatue
+iceandfire:stymphalianarrow -- stymphalianarrow
+iceandfire:stymphalianbird -- stymphalianbird
+iceandfire:stymphalianfeather -- stymphalianfeather
+iceandfire:tide_trident -- tide_trident
+ichunutil:entity_block -- EntityBlock
+industrialforegoing:pink_slime -- pink_slime
+integrateddynamics:entityitemtargetted -- entityitemtargetted
+lovely_robot:robotbunny -- robotBunny
+lovely_robot:robotbunny2 -- robotBunny2
+lovely_robot:robothoney -- robotHoney
+lovely_robot:robotvanilla -- robotVanilla
+mekanism:babyskeleton -- BabySkeleton
+mekanism:balloon -- Balloon
+mekanism:flame -- Flame
+mekanism:obsidiantnt -- ObsidianTNT
+mekanism:robit -- Robit
+mightyenderchicken:ent_chaoschicken -- ent_ChaosChicken
+mightyenderchicken:ent_chickenspawner -- ent_ChickenSpawner
+mightyenderchicken:ent_eggbomb -- ent_EggBomb
+mightyenderchicken:ent_enderchicken -- ent_EnderChicken
+minecraft:area_effect_cloud -- AreaEffectCloud
+minecraft:armor_stand -- ArmorStand
+minecraft:arrow -- Arrow
+minecraft:bat -- Bat
+minecraft:blaze -- Blaze
+minecraft:boat -- Boat
+minecraft:cave_spider -- CaveSpider
+minecraft:chest_minecart -- MinecartChest
+minecraft:chicken -- Chicken
+minecraft:commandblock_minecart -- MinecartCommandBlock
+minecraft:cow -- Cow
+minecraft:creeper -- Creeper
+minecraft:donkey -- Donkey
+minecraft:dragon_fireball -- DragonFireball
+minecraft:egg -- ThrownEgg
+minecraft:elder_guardian -- ElderGuardian
+minecraft:ender_crystal -- EnderCrystal
+minecraft:ender_dragon -- EnderDragon
+minecraft:ender_pearl -- ThrownEnderpearl
+minecraft:enderman -- Enderman
+minecraft:endermite -- Endermite
+minecraft:evocation_fangs -- EvocationFangs
+minecraft:evocation_illager -- EvocationIllager
+minecraft:eye_of_ender_signal -- EyeOfEnderSignal
+minecraft:falling_block -- FallingSand
+minecraft:fireball -- Fireball
+minecraft:fireworks_rocket -- FireworksRocketEntity
+minecraft:furnace_minecart -- MinecartFurnace
+minecraft:ghast -- Ghast
+minecraft:giant -- Giant
+minecraft:guardian -- Guardian
+minecraft:hopper_minecart -- MinecartHopper
+minecraft:horse -- Horse
+minecraft:husk -- Husk
+minecraft:illusion_illager -- IllusionIllager
+minecraft:item -- Item
+minecraft:item_frame -- ItemFrame
+minecraft:leash_knot -- LeashKnot
+minecraft:llama -- Llama
+minecraft:llama_spit -- LlamaSpit
+minecraft:magma_cube -- LavaSlime
+minecraft:minecart -- MinecartRideable
+minecraft:mooshroom -- MushroomCow
+minecraft:mule -- Mule
+minecraft:ocelot -- Ozelot
+minecraft:painting -- Painting
+minecraft:parrot -- Parrot
+minecraft:pig -- Pig
+minecraft:polar_bear -- PolarBear
+minecraft:potion -- ThrownPotion
+minecraft:rabbit -- Rabbit
+minecraft:sheep -- Sheep
+minecraft:shulker -- Shulker
+minecraft:shulker_bullet -- ShulkerBullet
+minecraft:silverfish -- Silverfish
+minecraft:skeleton -- Skeleton
+minecraft:skeleton_horse -- SkeletonHorse
+minecraft:slime -- Slime
+minecraft:small_fireball -- SmallFireball
+minecraft:snowball -- Snowball
+minecraft:snowman -- SnowMan
+minecraft:spawner_minecart -- MinecartSpawner
+minecraft:spectral_arrow -- SpectralArrow
+minecraft:spider -- Spider
+minecraft:squid -- Squid
+minecraft:stray -- Stray
+minecraft:tnt -- PrimedTnt
+minecraft:tnt_minecart -- MinecartTNT
+minecraft:vex -- Vex
+minecraft:villager -- Villager
+minecraft:villager_golem -- VillagerGolem
+minecraft:vindication_illager -- VindicationIllager
+minecraft:witch -- Witch
+minecraft:wither -- WitherBoss
+minecraft:wither_skeleton -- WitherSkeleton
+minecraft:wither_skull -- WitherSkull
+minecraft:wolf -- Wolf
+minecraft:xp_bottle -- ThrownExpBottle
+minecraft:xp_orb -- XPOrb
+minecraft:zombie -- Zombie
+minecraft:zombie_horse -- ZombieHorse
+minecraft:zombie_pigman -- PigZombie
+minecraft:zombie_villager -- ZombieVillager
+missing_pieces:mountableobject#inventory -- MountableObject
+mod_lavacow:acidjet -- mod_lavacow.acidjet
+mod_lavacow:avaton -- mod_lavacow.avaton
+mod_lavacow:banshee -- mod_lavacow.banshee
+mod_lavacow:boneworm -- mod_lavacow.boneworm
+mod_lavacow:cactoid -- mod_lavacow.cactoid
+mod_lavacow:cactusthorn -- mod_lavacow.cactusthorn
+mod_lavacow:cactyrant -- mod_lavacow.cactyrant
+mod_lavacow:deathcoil -- mod_lavacow.deathcoil
+mod_lavacow:enigmoth -- mod_lavacow.enigmoth
+mod_lavacow:enigmoth_larva -- mod_lavacow.enigmoth_larva
+mod_lavacow:flamejet -- mod_lavacow.flamejet
+mod_lavacow:foglet -- mod_lavacow.foglet
+mod_lavacow:forsaken -- mod_lavacow.forsaken
+mod_lavacow:ghostbomb -- mod_lavacow.ghostbomb
+mod_lavacow:ghostray -- mod_lavacow.ghostray
+mod_lavacow:holygrenade -- mod_lavacow.holygrenade
+mod_lavacow:ithaqua -- mod_lavacow.ithaqua
+mod_lavacow:lavacow -- mod_lavacow.lavacow
+mod_lavacow:lilsludge -- mod_lavacow.lilsludge
+mod_lavacow:mimic -- mod_lavacow.mimic
+mod_lavacow:moth_scales -- mod_lavacow.moth_scales
+mod_lavacow:mummy -- mod_lavacow.mummy
+mod_lavacow:parasite -- mod_lavacow.parasite
+mod_lavacow:pingu -- mod_lavacow.pingu
+mod_lavacow:piranha -- mod_lavacow.piranha
+mod_lavacow:piranhalauncher -- mod_lavacow.piranhalauncher
+mod_lavacow:ptera -- mod_lavacow.ptera
+mod_lavacow:raven -- mod_lavacow.raven
+mod_lavacow:salamander -- mod_lavacow.salamander
+mod_lavacow:sandburst -- mod_lavacow.sandburst
+mod_lavacow:scarecrow -- mod_lavacow.scarecrow
+mod_lavacow:skeletonking -- mod_lavacow.skeletonking
+mod_lavacow:sludgejet -- mod_lavacow.sludgejet
+mod_lavacow:sludgelord -- mod_lavacow.sludgelord
+mod_lavacow:sonicbomb -- mod_lavacow.sonicbomb
+mod_lavacow:unburied -- mod_lavacow.unburied
+mod_lavacow:undeadswine -- mod_lavacow.undeadswine
+mod_lavacow:undertaker -- mod_lavacow.undertaker
+mod_lavacow:vespa -- mod_lavacow.vespa
+mod_lavacow:vespacocoon -- mod_lavacow.vespacocoon
+mod_lavacow:warsmallfireball -- mod_lavacow.warsmallfireball
+mod_lavacow:weta -- mod_lavacow.weta
+mod_lavacow:zombiefrozen -- mod_lavacow.zombiefrozen
+mod_lavacow:zombiemushroom -- mod_lavacow.zombiemushroom
+mod_lavacow:zombiepiranha -- mod_lavacow.zombiepiranha
+mutantbeasts:body_part -- mutantbeasts.body_part
+mutantbeasts:chemical_x -- mutantbeasts.chemical_x
+mutantbeasts:creeper_minion -- mutantbeasts.creeper_minion
+mutantbeasts:creeper_minion_egg -- mutantbeasts.creeper_minion_egg
+mutantbeasts:endersoul_clone -- mutantbeasts.endersoul_clone
+mutantbeasts:endersoul_fragment -- mutantbeasts.endersoul_fragment
+mutantbeasts:mutant_arrow -- mutantbeasts.mutant_arrow
+mutantbeasts:mutant_creeper -- mutantbeasts.mutant_creeper
+mutantbeasts:mutant_enderman -- mutantbeasts.mutant_enderman
+mutantbeasts:mutant_skeleton -- mutantbeasts.mutant_skeleton
+mutantbeasts:mutant_snow_golem -- mutantbeasts.mutant_snow_golem
+mutantbeasts:mutant_zombie -- mutantbeasts.mutant_zombie
+mutantbeasts:skull_spirit -- mutantbeasts.skull_spirit
+mutantbeasts:spider_pig -- mutantbeasts.spider_pig
+mutantbeasts:throwable_block -- mutantbeasts.throwable_block
+mw:ammo256 -- Ammo256
+mw:entityspreadable263 -- EntitySpreadable263
+mw:flashgrenade262 -- FlashGrenade262
+mw:gasgrenade261 -- GasGrenade261
+mw:grenade259 -- Grenade259
+mw:shellcasing258 -- ShellCasing258
+mw:smokegrenade260 -- SmokeGrenade260
+mw:wcam257 -- wcam257
+mysticalagriculture:inferium_arrow -- inferium_arrow
+mysticalagriculture:intermedium_arrow -- intermedium_arrow
+mysticalagriculture:prudentium_arrow -- prudentium_arrow
+mysticalagriculture:superium_arrow -- superium_arrow
+mysticalagriculture:supremium_arrow -- supremium_arrow
+nocubessrparmory:entitybulletevolutionbow -- entitybulletevolutionbow
+nocubessrparmory:entitybulletflamethrower -- entitybulletflamethrower
+nocubessrparmory:entitybulletgorecombatbow -- entitybulletgorecombatbow
+nocubessrparmory:entitybulletheadbomb -- entitybulletheadbomb
+nocubessrparmory:entitybullethostbomb -- entitybullethostbomb
+nocubessrparmory:entitybullethosttentacle -- entitybullethosttentacle
+nocubessrparmory:entitybulletincinerator -- entitybulletincinerator
+nocubessrparmory:entitybulletoverlordblade -- entitybulletoverlordblade
+nocubessrparmory:entitybulletpestilentmiasm -- entitybulletpestilentmiasm
+nocubessrparmory:entitybulletpestilentshuriken -- entitybulletpestilentshuriken
+nocubessrparmory:entitybulletplasmatorch -- entitybulletplasmatorch
+nocubessrparmory:entitybullettwistedbomb -- entitybullettwistedbomb
+nocubessrparmory:entitybullettwistedbow -- entitybullettwistedbow
+openblocks:cartographer -- openblocks.cartographer
+openblocks:glyph -- openblocks.glyph
+openblocks:golden_eye -- openblocks.golden_eye
+openblocks:hang_glider -- openblocks.hang_glider
+openblocks:item_projectile -- openblocks.item_projectile
+openblocks:luggage -- openblocks.luggage
+openblocks:magnet -- openblocks.magnet
+openblocks:mini_me -- openblocks.mini_me
+openblocks:mounted_block -- openblocks.mounted_block
+openblocks:player_magnet -- openblocks.player_magnet
+openblocks:xp_orb_no_fly -- openblocks.xp_orb_no_fly
+openmods:block -- Block
+plustic:blindbandit -- BlindBandit
+plustic:supremeleader -- SupremeLeader
+projecte:fire_projectile -- FireProjectile
+projecte:homing_arrow -- HomingArrow
+projecte:lava_projectile -- LavaProjectile
+projecte:lens_projectile -- LensProjectile
+projecte:mob_randomizer -- MobRandomizer
+projecte:nova_cataclysm_primed -- NovaCataclysmPrimed
+projecte:nova_catalyst_primed -- NovaCatalystPrimed
+projecte:swrg_projectile -- LightningProjectile
+projecte:water_projectile -- WaterProjectile
+randomthings:artificialendportal -- artificialEndPortal
+randomthings:eclipsedclock -- eclipsedClock
+randomthings:fallingblockspecial -- fallingBlockSpecial
+randomthings:floofireplace -- flooFirePlace
+randomthings:goldenchicken -- goldenChicken
+randomthings:goldenegg -- goldenEgg
+randomthings:playersoul -- playerSoul
+randomthings:projecteditem -- projectedItem
+randomthings:revivecircle -- reviveCircle
+randomthings:spectreilluminator -- spectreIlluminator
+randomthings:spirit -- spirit
+randomthings:thrownweatheregg -- thrownWeatherEgg
+randomthings:timeaccelerator -- timeAccelerator
+randomthings:weathercloud -- weatherCloud
+redstonearsenal:flux_arrow -- redstonearsenal.flux_arrow
+spellbundle:wasp_minion -- spellbundle:wasp_minion
+srparasites:ada_arachnida -- srparasites.ada_arachnida
+srparasites:ada_bolster -- srparasites.ada_bolster
+srparasites:ada_longarms -- srparasites.ada_longarms
+srparasites:ada_manducater -- srparasites.ada_manducater
+srparasites:ada_reeker -- srparasites.ada_reeker
+srparasites:ada_summoner -- srparasites.ada_summoner
+srparasites:ada_yelloweye -- srparasites.ada_yelloweye
+srparasites:anc_dreadnaut -- srparasites.anc_dreadnaut
+srparasites:anc_dreadnaut_ten -- srparasites.anc_dreadnaut_ten
+srparasites:anc_overlord -- srparasites.anc_overlord
+srparasites:anc_pod -- srparasites.anc_pod
+srparasites:ancientball -- srparasites.ancientball
+srparasites:antiinfestedblock -- srparasites.antiinfestedblock
+srparasites:ballball -- srparasites.ballball
+srparasites:ballmall -- srparasites.ballmall
+srparasites:balltall -- srparasites.balltall
+srparasites:beckon_si -- srparasites.beckon_si
+srparasites:beckon_sii -- srparasites.beckon_sii
+srparasites:beckon_siii -- srparasites.beckon_siii
+srparasites:beckon_siv -- srparasites.beckon_siv
+srparasites:biomass -- srparasites.biomass
+srparasites:biomassball -- srparasites.biomassball
+srparasites:bogle -- srparasites.bogle
+srparasites:bomb -- srparasites.bomb
+srparasites:bomber_heavy -- srparasites.bomber_heavy
+srparasites:bomber_light -- srparasites.bomber_light
+srparasites:buglin -- srparasites.buglin
+srparasites:carrier_colony -- srparasites.carrier_colony
+srparasites:carrier_flying -- srparasites.carrier_flying
+srparasites:carrier_heavy -- srparasites.carrier_heavy
+srparasites:carrier_light -- srparasites.carrier_light
+srparasites:cloudtoxic -- srparasites.cloudtoxic
+srparasites:crux -- srparasites.crux
+srparasites:dispatcher_si -- srparasites.dispatcher_si
+srparasites:dispatcher_sii -- srparasites.dispatcher_sii
+srparasites:dispatcher_siii -- srparasites.dispatcher_siii
+srparasites:dispatcher_siv -- srparasites.dispatcher_siv
+srparasites:dispatcherten -- srparasites.dispatcherten
+srparasites:fer_bear -- srparasites.fer_bear
+srparasites:fer_cow -- srparasites.fer_cow
+srparasites:fer_horse -- srparasites.fer_horse
+srparasites:fer_human -- srparasites.fer_human
+srparasites:fer_pig -- srparasites.fer_pig
+srparasites:fer_sheep -- srparasites.fer_sheep
+srparasites:fer_villager -- srparasites.fer_villager
+srparasites:fer_wolf -- srparasites.fer_wolf
+srparasites:gnat -- srparasites.gnat
+srparasites:gore -- srparasites.gore
+srparasites:grunt -- srparasites.grunt
+srparasites:haunter -- srparasites.haunter
+srparasites:heed -- srparasites.heed
+srparasites:hi_blaze -- srparasites.hi_blaze
+srparasites:hi_golem -- srparasites.hi_golem
+srparasites:hi_skeleton -- srparasites.hi_skeleton
+srparasites:homming -- srparasites.homming
+srparasites:host -- srparasites.host
+srparasites:hostii -- srparasites.hostii
+srparasites:incompleteform_medium -- srparasites.incompleteform_medium
+srparasites:incompleteform_small -- srparasites.incompleteform_small
+srparasites:kyphosis -- srparasites.kyphosis
+srparasites:mangler -- srparasites.mangler
+srparasites:marauder -- srparasites.marauder
+srparasites:missile -- srparasites.missile
+srparasites:monarch -- srparasites.monarch
+srparasites:movingflesh -- srparasites.movingflesh
+srparasites:nade -- srparasites.nade
+srparasites:nadeball -- srparasites.nadeball
+srparasites:orb -- srparasites.orb
+srparasites:overseer -- srparasites.overseer
+srparasites:pri_arachnida -- srparasites.pri_arachnida
+srparasites:pri_bolster -- srparasites.pri_bolster
+srparasites:pri_devourer -- srparasites.pri_devourer
+srparasites:pri_longarms -- srparasites.pri_longarms
+srparasites:pri_manducater -- srparasites.pri_manducater
+srparasites:pri_reeker -- srparasites.pri_reeker
+srparasites:pri_summoner -- srparasites.pri_summoner
+srparasites:pri_tozoon -- srparasites.pri_tozoon
+srparasites:pri_vermin -- srparasites.pri_vermin
+srparasites:pri_yelloweye -- srparasites.pri_yelloweye
+srparasites:pullingball -- srparasites.pullingball
+srparasites:remain -- srparasites.remain
+srparasites:rupter -- srparasites.rupter
+srparasites:salivaball -- srparasites.salivaball
+srparasites:scent -- srparasites.scent
+srparasites:seizer -- srparasites.seizer
+srparasites:sentry -- srparasites.sentry
+srparasites:sim_adventurer -- srparasites.sim_adventurer
+srparasites:sim_adventurerhead -- srparasites.sim_adventurerhead
+srparasites:sim_bear -- srparasites.sim_bear
+srparasites:sim_bigspider -- srparasites.sim_bigspider
+srparasites:sim_cow -- srparasites.sim_cow
+srparasites:sim_cowhead -- srparasites.sim_cowhead
+srparasites:sim_dragone -- srparasites.sim_dragone
+srparasites:sim_dragonehead -- srparasites.sim_dragonehead
+srparasites:sim_horse -- srparasites.sim_horse
+srparasites:sim_horsehead -- srparasites.sim_horsehead
+srparasites:sim_human -- srparasites.sim_human
+srparasites:sim_humanhead -- srparasites.sim_humanhead
+srparasites:sim_pig -- srparasites.sim_pig
+srparasites:sim_pighead -- srparasites.sim_pighead
+srparasites:sim_sheep -- srparasites.sim_sheep
+srparasites:sim_sheephead -- srparasites.sim_sheephead
+srparasites:sim_squid -- srparasites.sim_squid
+srparasites:sim_villager -- srparasites.sim_villager
+srparasites:sim_villagerhead -- srparasites.sim_villagerhead
+srparasites:sim_wolf -- srparasites.sim_wolf
+srparasites:sim_wolfhead -- srparasites.sim_wolfhead
+srparasites:source -- srparasites.source
+srparasites:spineball -- srparasites.spineball
+srparasites:succor -- srparasites.succor
+srparasites:tendril -- srparasites.tendril
+srparasites:thrall -- srparasites.thrall
+srparasites:vigilante -- srparasites.vigilante
+srparasites:warden -- srparasites.warden
+srparasites:wave -- srparasites.wave
+srparasites:waveshock -- srparasites.waveshock
+srparasites:webball -- srparasites.webball
+srparasites:worker -- srparasites.worker
+srparasites:worm -- srparasites.worm
+srparasites:wraith -- srparasites.wraith
+tconstruct:arrow -- arrow
+tconstruct:blueslime -- tconstruct.blueslime
+tconstruct:bolt -- bolt
+tconstruct:fancy_frame -- Fancy Item Frame
+tconstruct:indestructible -- Indestructible Item
+tconstruct:shuriken -- shuriken
+tconstruct:throwball -- Throwball
+tfspellpack:acid_rain_cloud -- tfspellpack:acid_rain_cloud
+tfspellpack:carminite_ghastling_minion -- tfspellpack:carminite_ghastling_minion
+tfspellpack:cave_troll_minion -- tfspellpack:cave_troll_minion
+tfspellpack:cinder_cloud -- tfspellpack:cinder_cloud
+tfspellpack:dark_mist_cloud -- tfspellpack:dark_mist_cloud
+tfspellpack:druid_mage -- tfspellpack:druid_mage
+tfspellpack:fiery_tear -- tfspellpack:fiery_tear
+tfspellpack:fire_beetle_minion -- tfspellpack:fire_beetle_minion
+tfspellpack:fire_jet -- tfspellpack:fire_jet
+tfspellpack:magic_hydra_mortar -- tfspellpack:magic_hydra_mortar
+tfspellpack:rain_of_tears -- tfspellpack:rain_of_tears
+tfspellpack:redcap_goblin_minion -- tfspellpack:redcap_goblin_minion
+tfspellpack:redcap_sapper_minion -- tfspellpack:redcap_sapper_minion
+tfspellpack:skeleton_druid_minion -- tfspellpack:skeleton_druid_minion
+tfspellpack:slime_beetle_minion -- tfspellpack:slime_beetle_minion
+tfspellpack:snow_guardian_minion -- tfspellpack:snow_guardian_minion
+tfspellpack:stable_ice_core_minion -- tfspellpack:stable_ice_core_minion
+tfspellpack:twilight_wraith_minion -- tfspellpack:twilight_wraith_minion
+tfspellpack:unstable_ice_core_minion -- tfspellpack:unstable_ice_core_minion
+thaumcraft:alumentum -- Alumentum
+thaumcraft:arcanebore -- ArcaneBore
+thaumcraft:bottletaint -- BottleTaint
+thaumcraft:brainyzombie -- BrainyZombie
+thaumcraft:causalitycollapser -- CausalityCollapser
+thaumcraft:cultistcleric -- CultistCleric
+thaumcraft:cultistknight -- CultistKnight
+thaumcraft:cultistleader -- CultistLeader
+thaumcraft:cultistportalgreater -- CultistPortalGreater
+thaumcraft:cultistportallesser -- CultistPortalLesser
+thaumcraft:eldritchcrab -- EldritchCrab
+thaumcraft:eldritchgolem -- EldritchGolem
+thaumcraft:eldritchguardian -- EldritchGuardian
+thaumcraft:eldritchorb -- EldritchOrb
+thaumcraft:eldritchwarden -- EldritchWarden
+thaumcraft:fallingtaint -- FallingTaint
+thaumcraft:firebat -- Firebat
+thaumcraft:fluxrift -- FluxRift
+thaumcraft:focuscloud -- FocusCloud
+thaumcraft:focusmine -- Focusmine
+thaumcraft:focusprojectile -- FocusProjectile
+thaumcraft:followitem -- FollowItem
+thaumcraft:giantbrainyzombie -- GiantBrainyZombie
+thaumcraft:golem -- Golem
+thaumcraft:golemdart -- GolemDart
+thaumcraft:golemorb -- GolemOrb
+thaumcraft:grapple -- Grapple
+thaumcraft:inhabitedzombie -- InhabitedZombie
+thaumcraft:mindspider -- MindSpider
+thaumcraft:pech -- Pech
+thaumcraft:specialitem -- SpecialItem
+thaumcraft:spellbat -- Spellbat
+thaumcraft:taintacle -- Taintacle
+thaumcraft:taintaclegiant -- TaintacleGiant
+thaumcraft:taintacletiny -- TaintacleTiny
+thaumcraft:taintcrawler -- TaintCrawler
+thaumcraft:taintseed -- TaintSeed
+thaumcraft:taintseedprime -- TaintSeedPrime
+thaumcraft:taintswarm -- TaintSwarm
+thaumcraft:thaumslime -- ThaumSlime
+thaumcraft:turretadvanced -- TurretAdvanced
+thaumcraft:turretbasic -- TurretBasic
+thaumcraft:wisp -- Wisp
+thermaldynamics:transport -- transport
+thermalexpansion:florb -- florb
+thermalexpansion:morb -- morb
+thermalfoundation:basalz -- thermalfoundation.basalz
+thermalfoundation:basalz_bolt -- thermalfoundation.basalz_bolt
+thermalfoundation:blitz -- thermalfoundation.blitz
+thermalfoundation:blitz_bolt -- thermalfoundation.blitz_bolt
+thermalfoundation:blizz -- thermalfoundation.blizz
+thermalfoundation:blizz_bolt -- thermalfoundation.blizz_bolt
+treasure2:bound_soul -- bound_soul
+treasure2:pirate_mimic -- pirate_mimic
+treasure2:wood_mimic -- wood_mimic
+twilightforest:adherent -- twilightforest.adherent
+twilightforest:armored_giant -- twilightforest.armored_giant
+twilightforest:bighorn_sheep -- twilightforest.bighorn_sheep
+twilightforest:blockchain_goblin -- twilightforest.blockchain_goblin
+twilightforest:boggard -- twilightforest.boggard
+twilightforest:bunny -- twilightforest.bunny
+twilightforest:castle_guardian -- twilightforest.castle_guardian
+twilightforest:chain_block -- twilightforest.chain_block
+twilightforest:charm_effect -- twilightforest.charm_effect
+twilightforest:cube_of_annihilation -- twilightforest.cube_of_annihilation
+twilightforest:death_tome -- twilightforest.death_tome
+twilightforest:deer -- twilightforest.deer
+twilightforest:falling_ice -- twilightforest.falling_ice
+twilightforest:fire_beetle -- twilightforest.fire_beetle
+twilightforest:firefly -- twilightforest.firefly
+twilightforest:giant_miner -- twilightforest.giant_miner
+twilightforest:goblin_knight_lower -- twilightforest.goblin_knight_lower
+twilightforest:goblin_knight_upper -- twilightforest.goblin_knight_upper
+twilightforest:harbinger_cube -- twilightforest.harbinger_cube
+twilightforest:hedge_spider -- twilightforest.hedge_spider
+twilightforest:helmet_crab -- twilightforest.helmet_crab
+twilightforest:hostile_wolf -- twilightforest.hostile_wolf
+twilightforest:hydra -- twilightforest.hydra
+twilightforest:hydra_head -- twilightforest.hydra_head
+twilightforest:hydra_mortar -- twilightforest.hydra_mortar
+twilightforest:ice_arrow -- twilightforest.ice_arrow
+twilightforest:ice_crystal -- twilightforest.ice_crystal
+twilightforest:ice_snowball -- twilightforest.ice_snowball
+twilightforest:king_spider -- twilightforest.king_spider
+twilightforest:knight_phantom -- twilightforest.knight_phantom
+twilightforest:kobold -- twilightforest.kobold
+twilightforest:lich -- twilightforest.lich
+twilightforest:lich_bolt -- twilightforest.lich_bolt
+twilightforest:lich_bomb -- twilightforest.lich_bomb
+twilightforest:lich_minion -- twilightforest.lich_minion
+twilightforest:loyal_zombie -- twilightforest.loyal_zombie
+twilightforest:maze_slime -- twilightforest.maze_slime
+twilightforest:mini_ghast -- twilightforest.mini_ghast
+twilightforest:minoshroom -- twilightforest.minoshroom
+twilightforest:minotaur -- twilightforest.minotaur
+twilightforest:mist_wolf -- twilightforest.mist_wolf
+twilightforest:moonworm_shot -- twilightforest.moonworm_shot
+twilightforest:mosquito_swarm -- twilightforest.mosquito_swarm
+twilightforest:naga -- twilightforest.naga
+twilightforest:nature_bolt -- twilightforest.nature_bolt
+twilightforest:penguin -- twilightforest.penguin
+twilightforest:pinch_beetle -- twilightforest.pinch_beetle
+twilightforest:quest_ram -- twilightforest.quest_ram
+twilightforest:raven -- twilightforest.raven
+twilightforest:redcap -- twilightforest.redcap
+twilightforest:redcap_sapper -- twilightforest.redcap_sapper
+twilightforest:rising_zombie -- twilightforest.rising_zombie
+twilightforest:roving_cube -- twilightforest.roving_cube
+twilightforest:seeker_arrow -- twilightforest.seeker_arrow
+twilightforest:skeleton_druid -- twilightforest.skeleton_druid
+twilightforest:slider -- twilightforest.slider
+twilightforest:slime_beetle -- twilightforest.slime_beetle
+twilightforest:slime_blob -- twilightforest.slime_blob
+twilightforest:snow_guardian -- twilightforest.snow_guardian
+twilightforest:snow_queen -- twilightforest.snow_queen
+twilightforest:squirrel -- twilightforest.squirrel
+twilightforest:stable_ice_core -- twilightforest.stable_ice_core
+twilightforest:swarm_spider -- twilightforest.swarm_spider
+twilightforest:thrown_ice -- twilightforest.thrown_ice
+twilightforest:thrown_wep -- twilightforest.thrown_wep
+twilightforest:tiny_bird -- twilightforest.tiny_bird
+twilightforest:tome_bolt -- twilightforest.tome_bolt
+twilightforest:tower_broodling -- twilightforest.tower_broodling
+twilightforest:tower_ghast -- twilightforest.tower_ghast
+twilightforest:tower_golem -- twilightforest.tower_golem
+twilightforest:tower_termite -- twilightforest.tower_termite
+twilightforest:troll -- twilightforest.troll
+twilightforest:unstable_ice_core -- twilightforest.unstable_ice_core
+twilightforest:ur_ghast -- twilightforest.ur_ghast
+twilightforest:wand_bolt -- twilightforest.wand_bolt
+twilightforest:wild_boar -- twilightforest.wild_boar
+twilightforest:winter_wolf -- twilightforest.winter_wolf
+twilightforest:wraith -- twilightforest.wraith
+twilightforest:yeti -- twilightforest.yeti
+twilightforest:yeti_alpha -- twilightforest.yeti_alpha
+wrcbe:tracker -- tracker

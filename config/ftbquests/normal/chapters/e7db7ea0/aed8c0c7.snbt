@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "6d31d9a1",
+		type: "stat",
+		title: "Время в игре = 1h",
+		icon: "minecraft:clock",
+		stat: "stat.playOneMinute",
+		value: 72000
+	}]
+}

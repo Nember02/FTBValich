@@ -1,0 +1,33 @@
+{
+	title: "Fluid Cow: Molten Tin",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "tin",
+			Amount: 1000
+		}
+	},
+	x: -9.0d,
+	y: -2.5d,
+	shape: "circle",
+	text: [
+		"This cow can't be crafted. You have to breed it from other cows.",
+		"For the task to be completed, pick up the cow with a Cow Halter."
+	],
+	tasks: [{
+		uid: "99efd740",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_halter",
+			tag: {
+				t_fluid: "tin"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "1729e626",
+		type: "random",
+		table: 0
+	}]
+}

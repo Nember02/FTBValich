@@ -1,0 +1,93 @@
+1.1.0 UPDATE (Removed from Launcher/Twitch app, please use v1.1.1)
+
+
+Mods Updated:
+-BetterBuildersWands-1.12.2-0.12.1.254+27f21b9.jar
+-CraftPresence-1.12.2-1.4.9.9.jar
+-Cyclic-1.12.2-1.17.13.jar
+-Environmentaltech-1.12.2-2.0.19.1.jar
+-FluidCows-1.1.11.jar
+-FTBUtilities-5.3.0.69.jar
+-InventoryTweaks-1.64-dev.jar
+-jei_1.12.2-4.14.3.245.jar
+-MobGrindingUtils-0.3.13.jar
+-petrock-0.3.0.jar
+-Psi-r1.1-68.jar
+-randompatches-1.12.2-1.11.0.3.jar
+-RandomThings-MC1.12.2-4.2.5.jar
+-randomtweaks-1.12.2-2.4.0.7.jar
+-RebornCore-1.12.2-3.13.0.400-universal.jar
+-SmoothFont-mc1.12.2-1.16.2.jar
+-StoneBlockDimensions-1.0.1.jar
+-TConstruct-1.12.2-2.12.0.113.jar
+-tmel-1.12.2-1.2.0.0.jar
+-torchmaster_1.12.2-1.7.1.74.jar
+-valkyrielib-1.12.2-2.0.19.1.jar
+-voidislandcontrol-1.5.2.jar
+-WirelessCraftingTerminal-1.12.2-3.11.88.jar
+
+
+Mods Added:
+-AE2WTLib-1.12.2-1.0.6.jar
+-AkashicTome-1.2-12.jar
+-ExtraCells-1.12.2-2.6.2a.jar
+-JustEnoughEnergistics-1.12.2-1.0.2.jar
+-ServerLevelType-1.2.jar
+-MightyEnderChicken-1.12.2-7.1.0-beta2.jar
+-MrTJPCore-1.12.2-2.1.3.35-universal.jar
+-ProjectIntelligence-1.12.2-1.0.2.13-universal.jar
+-ProjectRed-1.12.2-4.9.1.92-Base.jar
+-ProjectRed-1.12.2-4.9.1.92-compat.jar
+-ProjectRed-1.12.2-4.9.1.92-fabrication.jar
+-ProjectRed-1.12.2-4.9.1.92-integration.jar
+-ProjectRed-1.12.2-4.9.1.92-lighting.jar
+-ProjectRed-1.12.2-4.9.1.92-mechanical.jar
+-topaddons-1.12.2-1.10.1.jar
+
+
+Mods Removed:
+-IronBackpacks-1.12.2-3.0.8-12.jar Due to dupe bugs
+
+
+Changes:
+-Changed EMC Value of Shimmer leaf
+-Changed EMC value of Vis Crystals
+-Removed OreDict From clay water and lava bucket due to it passing down to Empty bucket
+-Removing Stone Rod from exnihilo creatio favouriting tinkers Stone Rod
+-Fixed Craftpresence Icon
+-Rename the main menu resources to lower, and the references in the mainmenu.json
+-A lot of quest name and description update
+-Enabled Thaumic JEI to Show recipes even though research for it hasn't been unlock
+-Removed EMC from Neutron's but keep EMC on the items it makes
+-Fixed recipe conflict between Wooden Hammer and Wooden Chisel and bits wrench
+-Fixed "Photosynthesis is for Suckers" not completing with "Acacia Wood" and "Dark Oak Wood"
+-Configured ServerLevelType to voidworld
+-Enable autoCreateServersOnly from new Void Island Control update
+-Changed all quest reward to not be team reward
+-Disable Golden Bag of Holding due to clients hanging
+-AA Travelers Sack recipe remove due to dupe bug
+-Removed recipe for quantumflux magnet due to dupe bug
+-Corrected Common Loot Crate name
+-Removed Mekanism Crusher recipe for Sand to Silicon
+-Removed some Flying Ring recipes there wasnt working
+-tweaked ts2k16 Chance and Cooldown
+-Fixed grinder recipe for wheat Flour
+-Removed EMC from "Stencil Table", "Part Builder", "Tool Forge"
+-Added crafting recipe for glowing mushroom
+-Blacklisted Fluid Cows Stall from Cardboard Box
+-Increased Redstone drop from sifting by 5%
+-Added ProjectRed "Ruby", "Sapphire", "Peridot" and "Electrotine" to sifting
+-Removed and hide ProjectRed Solar Panel
+-Added Ore + Engineer's Hammer to Pluverized for "Gold", "Copper", "Tin", "Nickel", "Platinum" and "Iridium"
+-Disabled all Wub items due to crashes
+-Added Thaumcraft Amber and Brass Chickens
+-Changed Gold Chicken from laying nuggets to ingots
+-Changed so you craft the charged Sun Crystal instead of the empty one
+-Disable Chance Cube "TrollHole"
+-Removed Disabled/Removed Items from loot tables
+-Added a few new quest rewards
+-Increased Chaos Chicken Damage
+-Added Black Quartz Ore to Grinder recipes
+-Enabled Nether/End Biome for Quantum Quarry
+-Disabled HammerCore´s Smooth Vanilla Guis
+-Raised some cows breeding chance a little

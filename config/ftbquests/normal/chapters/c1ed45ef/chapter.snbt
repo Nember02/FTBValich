@@ -1,0 +1,12 @@
+{
+	title: "Жидкостные коровы",
+	icon: {
+		id: "fluidcows:cow_displayer",
+		tag: {
+			fluid: "milk"
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

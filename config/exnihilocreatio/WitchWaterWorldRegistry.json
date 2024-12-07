@@ -1,0 +1,31 @@
+{
+  "lava": {
+	"chisel:diorite": 1,
+	"chisel:andesite": 1,
+	"chisel:granite": 1,
+	"chisel:limestone": 1,
+	"chisel:basalt": 1,
+	"chisel:marble": 1
+  },
+  "water": {
+	"chisel:cobblestonemossy": 1,
+	"chisel:prismarine": 1
+  },
+  "ardite": {
+	"minecraft:netherrack": 1,
+	"minecraft:soul_sand": 1,
+	"mysticalagriculture:soulstone": 1
+  },
+  "liquidchorus": {
+	"minecraft:end_stone": 1
+  },
+  "dirt": {
+	"minecraft:dirt": 1,
+    "minecraft:dirt:1": 1,
+    "minecraft:dirt:2": 1
+  },
+  "sand": {
+	"chisel:sandstoneyellow": 1,
+	"chisel:sandstonered": 1
+  }
+}

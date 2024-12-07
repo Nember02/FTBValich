@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	dependencies: [
+		"1b656335"
+	],
+	tasks: [{
+		uid: "d49a671f",
+		type: "stat",
+		title: "Время в игре = 6h",
+		icon: "minecraft:clock",
+		stat: "stat.playOneMinute",
+		value: 432000
+	}]
+}

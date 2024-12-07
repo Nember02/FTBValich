@@ -1,0 +1,30 @@
+{
+	title: "30rnd 9x19mm APC9 Magazine",
+	icon: {
+		id: "mw:apc9mag",
+		tag: {
+			Ammo: 0
+		}
+	},
+	x: 1.0d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "c124c3ce",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 90L
+	}],
+	rewards: [{
+		uid: "b5b81532",
+		type: "item",
+		item: {
+			id: "mw:apc9mag",
+			tag: {
+				Ammo: 0
+			}
+		}
+	}]
+}

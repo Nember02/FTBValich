@@ -1,0 +1,22 @@
+{
+	title: "Боеприпасы",
+	icon: "mwc:bullet4570",
+	x: 1.0d,
+	y: 0.0d,
+	shape: "square",
+	description: "Купить боеприпасы",
+	can_repeat: true,
+	tasks: [{
+		uid: "78dc23bc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}]
+	}],
+	rewards: [{
+		uid: "fabd532d",
+		type: "item",
+		item: "mwc:bullet4570",
+		count: 32
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 4.0d,
+	y: 7.5d,
+	shape: "circle",
+	text: [
+		"This chicken must be bred."
+	],
+	tasks: [{
+		uid: "be974686",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Chicken: "chickens:glasschicken"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "ed5aa0b7",
+		type: "random",
+		table: 0
+	}]
+}

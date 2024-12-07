@@ -1,0 +1,15 @@
+{
+	title: "Открыть Кулинарные Поставки",
+	icon: "minecraft:bread",
+	x: -3.0d,
+	y: 7.5d,
+	dependencies: [
+		"b6289586"
+	],
+	hide: true,
+	rewards: [{
+		uid: "37d42d79",
+		type: "random",
+		table: 0
+	}]
+}

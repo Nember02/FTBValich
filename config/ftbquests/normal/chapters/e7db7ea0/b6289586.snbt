@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	dependencies: [
+		"aed8c0c7"
+	],
+	tasks: [{
+		uid: "a164ef0b",
+		type: "item",
+		title: "Кулинарные поставки",
+		items: [{
+			item: "minecraft:bread"
+		}]
+	}]
+}

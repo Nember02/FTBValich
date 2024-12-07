@@ -1,0 +1,27 @@
+{
+	title: "Поставка Арбузы (малая)",
+	x: -8.0d,
+	y: 2.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"46e54dcb"
+	],
+	hide: true,
+	tasks: [{
+		uid: "11e47022",
+		type: "item",
+		items: [{
+			item: "minecraft:melon"
+		}],
+		count: 1000L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "ffce7881",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 7
+	}]
+}

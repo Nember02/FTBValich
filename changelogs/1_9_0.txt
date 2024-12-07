@@ -1,0 +1,41 @@
+1.9.0 UPDATE
+
+Mods Updated:
+ActuallyAdditions-1.12.2-r146.jar
+base-1.12.2-3.12.0.jar
+BetterBuildersWands-1.12.2-0.13.1.269+13450ff.jar
+blockcraftery-1.12.2-1.2.0.jar
+Bookshelf-1.12.2-2.3.577.jar
+BuildingGadgets-2.6.6.jar
+CommonCapabilities-1.12.2-2.1.0.jar
+CraftTweaker2-1.12-4.1.15.jar
+Cyclic-1.12.2-1.18.2.jar
+CyclopsCore-1.12.2-1.0.6.jar
+FluidCows-1.1.17.jar
+framland-1.12.2-1.0.8.jar
+FTBLib-5.4.1.88.jar
+FTBQuests-1.5.1.135.jar
+FTBUtilities-5.4.0.86.jar
+FTBUtilitiesBackups-1.0.0.2.jar
+GooglyEyes-1.12.2-7.1.0.jar
+iChunUtil-1.12.2-7.2.1.jar
+industrialforegoing-1.12.2-1.12.7-231.jar
+IntegratedDynamics-1.12.2-1.0.8.jar
+jei_1.12.2-4.15.0.268.jar
+MainMenuScale-1.3.2.jar
+malisiscore-1.12.2-6.5.1.jar
+Mekanism-1.12.2-9.6.1.353.jar
+MekanismGenerators-1.12.2-9.6.1.353.jar
+MekanismTools-1.12.2-9.6.1.353.jar
+MightyEnderChicken-1.12.2-7.3.0.jar
+Morph-1.12.2-7.1.3.jar
+MPUtils-1.12.2-1.5.7.jar
+MTLib-3.0.6.jar
+mysticallib-1.12.2-1.1.1.jar
+randompatches-1.12.2-1.15.0.1.jar
+RebornCore-1.12.2-3.13.6.424-universal.jar
+YABBA-1.1.2.45.jar
+
+
+Changes:
+Configured MainMenuScale for HIGH_RES_SCALE

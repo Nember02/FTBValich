@@ -1,0 +1,19 @@
+1.0.1 UPDATE
+
+
+Mods Updated:
+-MainMenuScale-1.2.jar
+-MightyEnderChicken-1.12.2-7.0.0-beta22.jar
+
+
+Mods Added:
+-SplashAnimation-0.2.0.jar
+
+
+Mods Removed:
+-
+
+
+Changes:
+-Blacklist Yabba in Cardboard Box
+-Changed Void Seed recipe to unlock from Infusion research

@@ -1,0 +1,36 @@
+{
+	title: "Поставка Крупы (большая)",
+	x: -10.5d,
+	y: 3.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a90a89fa"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9a12c024",
+		type: "item",
+		items: [{
+			item: "harvestcraft:barleyitem"
+		}],
+		count: 4500L,
+		consume_items: true
+	},
+	{
+		uid: "91c07395",
+		type: "item",
+		items: [{
+			item: "harvestcraft:ryeitem"
+		}],
+		count: 4500L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "97e7811c",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 159
+	}]
+}

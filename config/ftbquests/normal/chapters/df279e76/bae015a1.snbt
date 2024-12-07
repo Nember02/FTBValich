@@ -1,0 +1,25 @@
+{
+	title: "Охота Подстрекатели",
+	x: -6.0d,
+	y: 6.5d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"7c546048"
+	],
+	hide: true,
+	tasks: [{
+		uid: "917d575b",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_banoadapted",
+		entity: "srparasites:ada_bolster",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "e9e8168f",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 25
+	}]
+}

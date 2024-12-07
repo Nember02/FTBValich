@@ -1,0 +1,31 @@
+1.21.0 UPDATE
+
+Mods updated:
+badwithernocookiereloaded-1.12.2-3.4.18.jar
+BrandonsCore-1.12.2-2.4.19.214-universal.jar
+buildcraft-all-7.99.24.7.jar
+CommonCapabilities-1.12.2-2.4.8.jar
+Controlling-3.0.10.jar
+CraftPresence-Forge-1.12.2-Release-1.7.2.jar
+CraftTweaker2-1.12-4.1.20.586.jar
+Cyclic-1.12.2-1.20.6.jar
+Draconic-Evolution-1.12.2-2.3.27.353-universal.jar
+EnderIO-1.12.2-5.2.61.jar
+EnderIO-endergy-1.12.2-5.2.61.jar
+ftb-ultimine-1202.3.5.jar
+FTBQuests-1202.9.0.13.jar
+GasConduits-1.12.2-1.2.4.jar
+IntegratedDynamics-1.12.2-1.1.10.jar
+IntegratedTunnels-1.12.2-1.6.13.jar
+jei_1.12.2-4.16.1.301.jar
+MineTogether-1.12.2-1.12.2-2.3.6.jar
+mysticallib-1.12.2-1.9.0.jar
+Psi-r1.1-78.1.jar
+SimplyJetpacks2-1.12.2-2.2.16.1.jar
+torchmaster_1.12.2-1.8.4.84.jar
+Xaeros_Minimap_20.25.1_Forge_1.12.jar
+Xtones-1.2.1.jar
+
+Other:
+Updated some trinkers smelting values.
+Removed EMC from AntiBarrel.

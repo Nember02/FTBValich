@@ -1,0 +1,36 @@
+{
+	title: "Поставка Крупы (средняя)",
+	x: -10.0d,
+	y: 2.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a90a89fa"
+	],
+	hide: true,
+	tasks: [{
+		uid: "409a729b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:barleyitem"
+		}],
+		count: 1500L,
+		consume_items: true
+	},
+	{
+		uid: "190d082d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:ryeitem"
+		}],
+		count: 1500L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "cce828db",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 44
+	}]
+}

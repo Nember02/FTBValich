@@ -1,0 +1,33 @@
+{
+	title: "Fluid Cow: Molten Clay",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "clay",
+			Amount: 1000
+		}
+	},
+	x: -6.0d,
+	y: -4.0d,
+	shape: "circle",
+	text: [
+		"This cow can't be crafted. You have to breed it from other cows.",
+		"For the task to be completed, pick up the cow with a Cow Halter."
+	],
+	tasks: [{
+		uid: "95adcac7",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_halter",
+			tag: {
+				t_fluid: "clay"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "603788b9",
+		type: "random",
+		table: 0
+	}]
+}

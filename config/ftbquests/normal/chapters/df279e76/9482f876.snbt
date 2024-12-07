@@ -1,0 +1,45 @@
+{
+	title: "Поставка Овощи (большая)",
+	x: -6.5d,
+	y: 4.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"86f7c44c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d61d2c90",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bellpepperitem"
+		}],
+		count: 3000L,
+		consume_items: true
+	},
+	{
+		uid: "ab2e84e2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:eggplantitem"
+		}],
+		count: 3000L,
+		consume_items: true
+	},
+	{
+		uid: "e819ad82",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tomatoitem"
+		}],
+		count: 3000L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "f2460df0",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 195
+	}]
+}

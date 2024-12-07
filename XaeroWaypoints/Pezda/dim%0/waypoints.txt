@@ -1,0 +1,8 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:Труп 2:Т2:-703:72:-1948:13:false:0:gui.xaero_default:false:0:false
+waypoint:Труп 1:Т1:-536:68:-1968:13:false:0:gui.xaero_default:false:0:false
+waypoint:Крипта:К:-1000:76:955:12:false:0:gui.xaero_default:false:0:false
+waypoint:Деревня:Д:726:67:822:3:false:0:gui.xaero_default:false:0:false
+waypoint:1:1:-524:66:820:2:false:0:gui.xaero_default:false:0:false

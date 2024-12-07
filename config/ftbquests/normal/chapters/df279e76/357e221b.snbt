@@ -1,0 +1,42 @@
+{
+	title: "Поставка Ягоды (открытие)",
+	x: -9.5d,
+	y: 4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"9a47f807"
+	],
+	hide: true,
+	tasks: [{
+		uid: "899eb7c5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raspberryitem"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "c0d202d5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blackberryitem"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "09f1e285",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blueberryitem"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "618e5b45",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cranberryitem"
+		}],
+		consume_items: false
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Стартовый банк",
+	x: 3.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "2cddc08e",
+		type: "checkmark",
+		title: "Получить"
+	}],
+	rewards: [{
+		uid: "423d78ad",
+		type: "item",
+		team_reward: false,
+		item: "harvestcraft:garliccoinitem",
+		count: 10
+	}]
+}

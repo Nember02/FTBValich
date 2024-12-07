@@ -1,0 +1,54 @@
+{
+	title: "Поставка Ягоды (средняя)",
+	x: -10.0d,
+	y: 5.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"357e221b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "12afc16b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raspberryitem"
+		}],
+		count: 750L,
+		consume_items: true
+	},
+	{
+		uid: "18085313",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blackberryitem"
+		}],
+		count: 750L,
+		consume_items: true
+	},
+	{
+		uid: "2450abac",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blueberryitem"
+		}],
+		count: 750L,
+		consume_items: true
+	},
+	{
+		uid: "0c709092",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cranberryitem"
+		}],
+		count: 750L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "ff6e046d",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 58
+	}]
+}

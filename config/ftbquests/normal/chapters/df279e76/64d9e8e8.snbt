@@ -1,0 +1,15 @@
+{
+	title: "Открыть бонус за Время в игре",
+	icon: "minecraft:clock",
+	x: -11.5d,
+	y: 7.5d,
+	dependencies: [
+		"aed8c0c7"
+	],
+	hide: true,
+	rewards: [{
+		uid: "cb30559e",
+		type: "random",
+		table: 0
+	}]
+}

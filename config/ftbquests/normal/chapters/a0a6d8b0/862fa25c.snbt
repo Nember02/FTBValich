@@ -1,0 +1,23 @@
+{
+	title: ".45-70 Govenment Bullet",
+	icon: "mw:bullet4570",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Купить боеприпасы",
+	can_repeat: true,
+	tasks: [{
+		uid: "78dc23bc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "c94ade37",
+		type: "item",
+		item: "mw:bullet4570",
+		count: 100
+	}]
+}

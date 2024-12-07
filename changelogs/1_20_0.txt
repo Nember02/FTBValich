@@ -1,0 +1,26 @@
+1.20.0 UPDATE
+
+Mods updated:
+BuildingGadgets-2.8.4.jar
+CommonCapabilities-1.12.2-2.4.7.jar
+CraftPresence-1.12.2-1.6.6.jar
+CyclopsCore-1.12.2-1.6.6.jar
+DankNull-1.12.2-1.7.101.jar
+FTBQuests-1.9.0.12.jar
+FTBUltimine-1.12-1.3.4.jar
+FTBUtilities-5.4.1.130.jar
+IntegratedDynamics-1.12.2-1.1.7.jar
+IntegratedTunnels-1.12.2-1.6.12.jar
+ItemFilters-1.0.4.2.jar
+just-enough-harvestcraft-1.12.2-1.7.2.jar
+LootTweaker-0.2.0+MC1.12.2.jar
+ProjectEX-1.2.0.40.jar
+randompatches-1.12.2-1.22.0.0.jar
+randomtweaks-1.12.2-2.8.2.0.jar
+SimplyJetpacks2-1.12.2-2.2.15.69.jar
+torchmaster_1.12.2-1.8.1.82.jar
+Xaeros_Minimap_20.18.0_Forge_1.12.jar
+
+Other:
+Fixed knowledge Sharing Book recipe
+Removed broken repair talisman recipe and added it to Legendary Loot Crate

@@ -1,0 +1,50 @@
+1.6.0 UPDATE
+
+Mods Updated:
+ActuallyAdditions-1.12.2-r145.jar
+Bookshelf-1.12.2-2.3.574.jar
+BuildingGadgets-2.6.3.jar
+CoFHCore-1.12.2-4.6.2.25-universal.jar
+CommonCapabilities-1.12.2-2.0.2.jar
+CyclopsCore-1.12.2-1.0.3.jar
+Draconic-Evolution-1.12.2-2.3.19.330-universal.jar
+EnderCore-1.12.2-0.5.45.jar
+EnderIO-1.12.2-5.0.40.jar
+EnderIO-endergy-1.12.2-5.0.40.jar
+FluidCows-1.1.16.jar
+FTBLib-5.4.1.84.jar
+FTBQuests-1.5.0.130.jar
+FTBUtilities-5.3.0.81.jar
+hatchery-1.12.2-2.2.0.jar
+IntegratedDynamics-1.12.2-1.0.4.jar
+IntegratedTunnels-1.12.2-1.6.5.jar
+ironchest-1.12.2-7.0.59.842.jar
+ItemFilters-1.0.1.8.jar
+MouseTweaks-2.10-mc1.12.2.jar
+notenoughwands-1.12-1.7.3.jar
+randompatches-1.12.2-1.12.1.0.jar
+RandomThings-MC1.12.2-4.2.6.jar
+randomtweaks-1.12.2-2.4.3.1.jar
+RedstoneArsenal-1.12.2-2.6.2.17-universal.jar
+rflux-1.12-0.3.2.jar
+rftools-1.12-7.61.jar
+rftoolsctrl-1.12-1.9.3.jar
+rftoolspower-1.12-1.1.2.jar
+theoneprobe-1.12-1.4.28.jar
+ThermalCultivation-1.12.2-0.3.2.11-universal.jar
+ThermalDynamics-1.12.2-2.5.4.18-universal.jar
+ThermalFoundation-1.12.2-2.6.2.26-universal.jar
+ThermalInnovation-1.12.2-0.3.2.11-universal.jar
+tinyprogressions-1.12.2-3.3.32-Release.jar
+YABBA-1.1.2.40.jar
+
+
+Mods Added:
+
+
+Mods Removed:
+
+
+Changes:
+Fixed Decay Enchantment recipe
+Fixed crafting recipe conflict wands and spears

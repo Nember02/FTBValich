@@ -1,0 +1,31 @@
+1.18.0 UPDATE
+
+Mods Updated:
+CraftPresence-1.12.2-1.6.5.jar
+CraftTweaker2-1.12-4.1.20.574.jar
+Cyclic-1.12.2-1.20.2.jar
+CyclopsCore-1.12.2-1.6.4.jar
+DankNull-1.12.2-1.7.100.jar
+FTBUltimine_1.12-1.2.2.jar
+HammerLib-1.12.2-2.0.6.17.jar
+IntegratedDynamics-1.12.2-1.1.6.jar
+LootTweaker-0.1.7+MC1.12.2.jar
+minetogether-1.10.2-2.2.4.jar
+Morph-1.12.2-7.2.0.jar
+Psi-r1.1-78.jar
+randompatches-1.12.2-1.21.0.3.jar
+randomtweaks-1.12.2-2.8.0.2.jar
+RedstoneArsenal-1.12.2-2.6.6.1-universal.jar
+SmoothFont-mc1.12.2-2.1.2.jar
+StorageDrawers-1.12.2-5.4.2.jar
+VanillaFix-1.0.10-150.jar
+
+Mods Added:
+
+
+Mods Removed:
+RealisticItemDrops-1.2.14.jar
+
+
+Changes:
+Blacklisted yabba from NotEnoughWands moving wand and displacement

@@ -1,0 +1,53 @@
+1.11.0 UPDATE
+
+Updated to forge version 2836
+
+Mods Updated:
+-BrandonsCore-1.12.2-2.4.10.198-universal.jar
+-Botania r1.10-361.jar
+-Ceramics-1.12-1.3.7.jar
+-ChanceCubes-1.12.2-4.0.0.270.jar
+-compactmachines3-1.12.2-3.0.16-b263.jar
+-CookingForBlockheads_1.12.2-6.4.70.jar
+-CraftPresence-1.12.2-1.5.3.1.jar
+-Cyclic-1.12.2-1.19.2.jar
+-Draconic-Evolution-1.12.2-2.3.21.342-universal.
+-EnderCore-1.12.2-0.5.57.jar
+-ExCompressum_1.12.2-3.0.27.jar
+-exnihilocreatio-1.12.2-0.4.1.2.jar
+-flatcoloredblocks-mc1.12-6.7.jar
+-foamfix-0.10.5-1.12.2.jar
+-framland-1.12.2-1.0.10.jar
+-FTBLib-5.4.1.95.jar
+-FTBQuests-1.5.1.144.jar
+-FTBUtilities-5.4.0.92.jar
+GasConduits-1.12.2-1.2.1.jar
+-ItemFilters-1.0.3.11.jar
+-jei_1.12.2-4.15.0.277.jar
+-Mekanism-1.12.2-9.6.9.369.jar
+-MekanismGenerators-1.12.2-9.6.9.369.jar
+-MekanismTools-1.12.2-9.6.9.369.jar
+-OpenBlocks-1.12.2-1.8.1.jar
+-OpenModsLib-1.12.2-0.12.2.jar
+-p455w0rdslib-1.12.2-2.1.44.jar
+-Placebo-1.12.2-1.6.0.jar
+-ProjectIntelligence-1.12.2-1.0.4.17-universal.jar
+-Psi-r1.1-73.jar
+-RandomThings-MC1.12.2-4.2.7.1.jar
+-randomtweaks-1.12.2-2.5.0.3.jar
+-RebornCore-1.12.2-3.13.12.447-universal.jar
+-ThaumicJEI-1.12.2-1.5.8-26.jar
+-topaddons-1.12.2-1.11.0.jar
+-Xaeros_Minimap_1.16.3_Forge_1.12.jar
+-YABBA-1.1.2.48.jar
+
+
+Mods Added:
+
+
+Mods Removed:
+
+
+Changes:
+-Cleaned up tmel config. #453
+-Fixed Black Hole Controller quest. #463

@@ -1,0 +1,9 @@
+/*
+import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDictEntry;
+val biomass = <ore:treeSapling>;
+for item in biomass.items {
+	mods.mekanism.crusher.addRecipe(item,<mekanism:biofuel> * 2);
+}
+*/
+

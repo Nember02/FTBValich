@@ -1,0 +1,31 @@
+{
+	title: "30rnd 7.62x39mm PMAG Magazine",
+	icon: {
+		id: "mw:ak15mag_2",
+		tag: {
+			Ammo: 0
+		}
+	},
+	x: 1.0d,
+	y: 2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "8765d6e6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 90L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "4b1200c7",
+		type: "item",
+		item: {
+			id: "mw:ak15mag_2",
+			tag: {
+				Ammo: 0
+			}
+		}
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Поставка Арбузы (большая)",
+	x: -6.5d,
+	y: 3.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"46e54dcb"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9f236f0a",
+		type: "item",
+		items: [{
+			item: "minecraft:melon"
+		}],
+		count: 9000L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "2a399894",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 94
+	}]
+}

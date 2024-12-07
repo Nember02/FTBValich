@@ -1,0 +1,23 @@
+{
+	title: "Контендер",
+	icon: "mwc:g2_contender",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	description: "Купить оружие",
+	can_repeat: true,
+	tasks: [{
+		uid: "22cd698a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 2L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a2f833d3",
+		type: "item",
+		item: "mwc:g2_contender"
+	}]
+}

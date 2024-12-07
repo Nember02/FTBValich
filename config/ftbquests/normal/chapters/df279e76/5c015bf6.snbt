@@ -1,0 +1,25 @@
+{
+	title: "Охота Призыватели",
+	x: -5.5d,
+	y: 8.5d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"7c546048"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f865d187",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_canraadapted",
+		entity: "srparasites:ada_summoner",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "bbf26046",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 25
+	}]
+}

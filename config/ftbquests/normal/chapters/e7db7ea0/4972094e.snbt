@@ -1,0 +1,37 @@
+{
+	title: "Сельскохозяственные поставки",
+	icon: "minecraft:wheat",
+	x: 0.5d,
+	y: -1.0d,
+	dependencies: [
+		"aed8c0c7"
+	],
+	tasks: [{
+		uid: "bf166c15",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}]
+	},
+	{
+		uid: "c5a4f2b5",
+		type: "item",
+		items: [{
+			item: "minecraft:carrot"
+		}]
+	},
+	{
+		uid: "8416cac5",
+		type: "item",
+		items: [{
+			item: "minecraft:potato"
+		}]
+	},
+	{
+		uid: "8996ef8d",
+		type: "item",
+		items: [{
+			item: "minecraft:beetroot"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Sieve join chat",
+	icon: "excompressum:auto_sieve",
+	x: -9.0d,
+	y: -19.5d,
+	description: "Make an AutoSieve",
+	text: [
+		"The Sieve uses a Mesh to process blocks like Gravel, Sand, and Dust into ores and other materials.",
+		"Higher tier Meshes can yields more materials and have a higher chance overall to collect them."
+	],
+	dependencies: [
+		"d8fc8a49"
+	],
+	tasks: [{
+		uid: "2c80655b",
+		type: "item",
+		items: [{
+			item: "excompressum:auto_sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "c9ae7bf9",
+		type: "random",
+		table: 0
+	}]
+}

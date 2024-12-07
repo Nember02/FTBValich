@@ -1,0 +1,23 @@
+{
+	x: -12.0d,
+	y: 6.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"64d9e8e8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "74bd9701",
+		type: "stat",
+		title: "Бонус = 7h",
+		icon: "minecraft:clock",
+		stat: "stat.playOneMinute",
+		value: 504000
+	}],
+	rewards: [{
+		uid: "8aff89fd",
+		type: "item",
+		item: "harvestcraft:garliccoinitem",
+		count: 30
+	}]
+}

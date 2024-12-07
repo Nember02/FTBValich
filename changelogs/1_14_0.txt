@@ -1,0 +1,51 @@
+1.14.0 UPDATE
+
+Updated to forge 14.23.5.2838
+
+Mods Updated:
+AutoRegLib-1.3-30.jar
+blockcraftery-1.12.2-1.3.1.jar
+bonsaitrees-1.1.3-b156.jar
+Bookshelf-1.12.2-2.3.581.jar
+CoFHCore-1.12.2-4.6.3.27-universal.jar
+CoFHWorld-1.12.2-1.3.1.7-universal.jar
+CraftPresence-1.12.2-1.5.5.jar
+CraftTweaker2-1.12-4.1.18.jar
+Cyclic-1.12.2-1.19.10.jar
+FastWorkbench-1.12.2-1.7.2.jar
+flatcoloredblocks-mc1.12-6.8.jar
+FTBUtilitiesBackups-1.0.0.4.jar
+hatchery-1.12.2-2.2.2.jar
+IntegratedDynamics-1.12.2-1.0.14.jar
+IntegratedTunnels-1.12.2-1.6.9.jar
+jei_1.12.2-4.15.0.280.jar
+mcjtylib-1.12-3.5.3.jar
+Mekanism-1.12.2-9.7.6.377.jar
+MekanismGenerators-1.12.2-9.7.6.377.jar
+MekanismTools-1.12.2-9.7.6.377.jar
+mysticallib-1.12.2-1.2.1.jar
+randomtweaks-1.12.2-2.5.0.6.jar
+RedstoneArsenal-1.12.2-2.6.3.18-universal.jar
+SmoothFont-mc1.12.2-2.0.jar
+ThermalCultivation-1.12.2-0.3.3.12-universal.jar
+ThermalDynamics-1.12.2-2.5.5.21-universal.jar
+ThermalExpansion-1.12.2-5.5.4.43-universal.jar
+ThermalFoundation-1.12.2-2.6.3.27-universal.jar
+ThermalInnovation-1.12.2-0.3.3.12-universal.jar
+Xaeros_Minimap_1.17_Forge_1.12.jar
+
+
+Mod Downgraded:
+FTBQuests-1.5.1.146.jar #530
+
+
+Mods Added:
+
+
+Mods Removed:
+
+
+Changes:
+Fixed some CoFH script errors
+Removed ExNihilo Stone Crook favouriting Stoneblock Utilities Stone Crook
+Added link to FTB Discord in main menu

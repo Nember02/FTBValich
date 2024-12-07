@@ -1,0 +1,32 @@
+{
+	title: "Krag Jorgensen",
+	icon: {
+		id: "mw:krag_jorgensen",
+		tag: {
+			IUuidLeast: -6573131996510087513L,
+			IUuidMost: 5087633627885486547L
+		}
+	},
+	x: -1.0d,
+	y: 4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "d3a051c7",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 186L
+	}],
+	rewards: [{
+		uid: "7f166fde",
+		type: "item",
+		item: {
+			id: "mw:krag_jorgensen",
+			tag: {
+				IUuidLeast: -6573131996510087513L,
+				IUuidMost: 5087633627885486547L
+			}
+		}
+	}]
+}

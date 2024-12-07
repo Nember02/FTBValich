@@ -1,0 +1,34 @@
+{
+	title: "Fluid Cow: Blazing Pyrotheum",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "pyrotheum",
+			Amount: 1000
+		}
+	},
+	x: 1.5d,
+	y: -2.5d,
+	shape: "circle",
+	text: [
+		"This cow can't be crafted. You have to breed it from other cows.",
+		"For the task to be completed, pick up the cow with a Cow Halter."
+	],
+	tasks: [{
+		uid: "d09cbe39",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_halter",
+			tag: {
+				t_fluid: "pyrotheum"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "cdc60359",
+		type: "random",
+		table: 0
+	}]
+}

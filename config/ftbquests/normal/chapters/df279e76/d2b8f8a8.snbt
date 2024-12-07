@@ -1,0 +1,45 @@
+{
+	title: "Поставка Овощи (средняя)",
+	x: -7.0d,
+	y: 5.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"86f7c44c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b009bb86",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bellpepperitem"
+		}],
+		count: 1000L,
+		consume_items: true
+	},
+	{
+		uid: "5cfb447d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:eggplantitem"
+		}],
+		count: 1000L,
+		consume_items: true
+	},
+	{
+		uid: "7e252975",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tomatoitem"
+		}],
+		count: 1000L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "7ea48843",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 54
+	}]
+}

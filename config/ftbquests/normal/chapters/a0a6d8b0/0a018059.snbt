@@ -1,0 +1,21 @@
+{
+	title: "8x58mm Bullet",
+	icon: "mw:bullet8x58",
+	x: 0.0d,
+	y: 4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "a84778c4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "9c3bd91e",
+		type: "item",
+		item: "mw:bullet8x58",
+		count: 100
+	}]
+}

@@ -1,0 +1,12 @@
+[09:31:01] [ERROR] Error parsing Ingredient String: Invalid Item: natura:overworld_leaves:-1
+[09:31:01] [ERROR] Compost JSON Entry for natura:overworld_leaves:-1 already exists, skipping.
+[09:31:01] [ERROR] Error parsing Ingredient String: Invalid Item: natura:overworld_leaves2:-1
+[09:31:01] [ERROR] Compost JSON Entry for natura:overworld_leaves2:-1 already exists, skipping.
+[09:31:01] [ERROR] Error parsing Ingredient String: Invalid Item: natura:redwood_leaves:0
+[09:31:01] [ERROR] Compost JSON Entry for natura:redwood_leaves:0 already exists, skipping.
+[09:31:01] [ERROR] Error parsing Ingredient String: Invalid Item: natura:nether_leaves:-1
+[09:31:01] [ERROR] Compost JSON Entry for natura:nether_leaves:-1 already exists, skipping.
+[09:31:01] [ERROR] Error parsing Ingredient String: Invalid Item: natura:nether_leaves2:-1
+[09:31:01] [ERROR] Compost JSON Entry for natura:nether_leaves2:-1 already exists, skipping.
+[09:31:01] [ERROR] Number error in json: randomthings:spectreleaf:*
+[09:31:01] [ERROR] Compost JSON Entry for randomthings:spectreleaf:* already exists, skipping.

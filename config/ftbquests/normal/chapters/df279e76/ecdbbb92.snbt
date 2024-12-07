@@ -1,0 +1,25 @@
+{
+	title: "Охота Арахниды",
+	x: -7.5d,
+	y: 8.5d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"7c546048"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5b896d23",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_ranracadapted",
+		entity: "srparasites:ada_arachnida",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "3d0bbd6d",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 25
+	}]
+}

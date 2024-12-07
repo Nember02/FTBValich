@@ -1,0 +1,42 @@
+1.3.0 UPDATE
+
+
+Mods Updated:
+-chiselsandbits-14.30.jar
+-ExtraCells-1.12.2-2.6.3aNIGHTLY.jar #198
+-FluidCows-1.1.14.jar
+-ForgeMultipart-1.12.2-2.6.1.81-universal.jar
+-FTBLib-5.4.1.80.jar #202
+-ironchest-1.12.2-7.0.58.841.jar
+-jei_1.12.2-4.14.4.263.jar
+-JustEnoughEnergistics-1.12.2-1.0.6.jar #190
+-MightyEnderChicken-1.12.2-7.2.0.jar
+-Placebo-1.12.2-1.5.1.jar
+-ProjectEX-1.0.0.3.jar
+-PSI-r1.1-70.jar #129
+-randompatches-1.12.2-1.12.0.2.jar
+-randomtweaks-1.12.2-2.4.1.0.jar
+-TConstruct-1.12.2-2.12.0.115.jar #133
+-tmel-1.12.2-1.3.2.1.jar
+-Toast Control-1.12.2-1.8.0.jar
+-YABBA-1.1.2.35.jar #202
+
+
+Mods Added:
+-VanillaFix-1.0.10-99.jar #84
+
+Mods Removed:
+
+
+Changes:
+-Added all TP Cobble gens to craftingStationBlacklist #179
+-Added warning to Big Spender quest that it consumes the EMC submitted
+-Disabled AA Easter egg #192
+-Removed recipe for Quest Chest #191
+-Removed Thermal crafting recipe for Paper #184
+-Blacklist AE2 Energy Cell due to crash #187
+-Added furnace recipe for Void seeds to Void Ingots #183
+-Removed final_star_shard added by newest ProjectEX update, and added quests for the new stars
+-Fixed Rice Slimeball using waterbottle recipe #208
+-Removed EMC from Biome Marker´s due to NBT
+-Disabled fluidContainerBottles in EnderCore should fix #209

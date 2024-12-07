@@ -1,0 +1,27 @@
+{
+	title: "Поставка Арбузы (средняя)",
+	x: -7.0d,
+	y: 2.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"46e54dcb"
+	],
+	hide: true,
+	tasks: [{
+		uid: "055ee213",
+		type: "item",
+		items: [{
+			item: "minecraft:melon"
+		}],
+		count: 3000L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "4eec9430",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 26
+	}]
+}

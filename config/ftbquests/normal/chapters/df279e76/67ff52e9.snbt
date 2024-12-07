@@ -1,0 +1,26 @@
+{
+	title: "Охота Длиннорукие",
+	x: -5.5d,
+	y: 7.5d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"7c546048"
+	],
+	hide: true,
+	tasks: [{
+		uid: "77673589",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_shycoadapted",
+		entity: "srparasites:ada_longarms",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "1babb61b",
+		type: "item",
+		team_reward: true,
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 25
+	}]
+}

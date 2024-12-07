@@ -1,0 +1,54 @@
+{
+	title: "Поставка Ягоды (малая)",
+	x: -9.0d,
+	y: 5.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"357e221b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8448e8e2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raspberryitem"
+		}],
+		count: 250L,
+		consume_items: true
+	},
+	{
+		uid: "295b5564",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blackberryitem"
+		}],
+		count: 250L,
+		consume_items: true
+	},
+	{
+		uid: "991aa531",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blueberryitem"
+		}],
+		count: 250L,
+		consume_items: true
+	},
+	{
+		uid: "359ac429",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cranberryitem"
+		}],
+		count: 250L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "79b4cfee",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 16
+	}]
+}

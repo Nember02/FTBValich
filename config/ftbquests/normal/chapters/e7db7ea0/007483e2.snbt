@@ -1,0 +1,72 @@
+{
+	title: "Охота на чудовищ",
+	x: 0.5d,
+	y: 0.0d,
+	dependencies: [
+		"aed8c0c7"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "a9566d42",
+		type: "observation",
+		title: "Обнаружить Длиннорукого",
+		icon: "srparasites:itemmobspawner_shycoadapted",
+		match_type: "entity_id",
+		match: "srparasites:ada_longarms",
+		timer: 0L
+	},
+	{
+		uid: "6cfeee8a",
+		type: "observation",
+		title: "Обнаружить Исчезателя",
+		icon: "srparasites:itemmobspawner_hulladapted",
+		match_type: "entity_id",
+		match: "srparasites:ada_manducater",
+		timer: 0L
+	},
+	{
+		uid: "4f51f504",
+		type: "observation",
+		title: "Обнаружить Зловонного",
+		icon: "srparasites:itemmobspawner_noglaadapted",
+		match_type: "entity_id",
+		match: "srparasites:ada_reeker",
+		timer: 0L
+	},
+	{
+		uid: "0851a4a1",
+		type: "observation",
+		title: "Обнаружить Желтоглаза",
+		icon: "srparasites:itemmobspawner_emanaadapted",
+		match_type: "entity_id",
+		match: "srparasites:ada_yelloweye",
+		timer: 0L
+	},
+	{
+		uid: "77804e78",
+		type: "observation",
+		title: "Обнаружить Призывателя",
+		icon: "srparasites:itemmobspawner_canraadapted",
+		match_type: "entity_id",
+		match: "srparasites:ada_summoner",
+		timer: 0L
+	},
+	{
+		uid: "fe86cfde",
+		type: "observation",
+		title: "Обнаружить Подстрекателя",
+		icon: "srparasites:itemmobspawner_banoadapted",
+		match_type: "entity_id",
+		match: "srparasites:ada_bolster",
+		timer: 0L
+	},
+	{
+		uid: "f1e7a79d",
+		type: "observation",
+		title: "Обнаружить Арахниду",
+		icon: "srparasites:itemmobspawner_ranracadapted",
+		match_type: "entity_id",
+		match: "srparasites:ada_arachnida",
+		timer: 0L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "Fluid Cow: Molten Energetic Alloy",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "energetic_alloy",
+			Amount: 1000
+		}
+	},
+	x: 7.5d,
+	y: -5.5d,
+	shape: "circle",
+	text: [
+		"This cow can't be crafted. You have to breed it from other cows.",
+		"For the task to be completed, pick up the cow with a Cow Halter."
+	],
+	tasks: [{
+		uid: "3681b77d",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_halter",
+			tag: {
+				t_fluid: "energetic_alloy"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "bf7b46a1",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "50rnd 7.62x39mm Drum Magazine",
+	icon: {
+		id: "mw:ak50mag",
+		tag: {
+			Ammo: 50
+		}
+	},
+	x: 2.0d,
+	y: 2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "30f2e135",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 150L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "b798defd",
+		type: "item",
+		item: {
+			id: "mw:ak50mag",
+			tag: {
+				Ammo: 0
+			}
+		}
+	}]
+}

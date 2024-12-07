@@ -1,0 +1,140 @@
+{
+    "synopsis": "The Stoneblock you like, now just even better then before! New mods, new dimensions, and new bosses! ",
+    "description": "The Stoneblock you like, now just even better then before! New mods, new dimensions, and new bosses! Like the first Stoneblock you start in world of stone, now with new modified Mining and End dimension! Kitchen-sink-like modpack with quests to help guide you in the start and to give you some goals to reach.  \n  \nFor Servers:  \nChange level-type in server.properties to voidworld  \ncommand /cave  \n  \n[![CreeperHostPromo](https://i.imgur.com/vjIfqv5.png \"CreeperHostPromo\")](https://www.creeperhost.net/partner/sunekaerjzn)",
+    "art": [
+        {
+            "width": 1024,
+            "height": 1024,
+            "compressed": true,
+            "url": "https://apps.modpacks.ch/modpacks/art/3/stoneblock-2.png",
+            "sha1": "57f2af57dea116593d913bd5b2085aa0f09e387f",
+            "size": 770652,
+            "id": 159,
+            "type": "square",
+            "updated": 1603026092
+        },
+        {
+            "width": 1920,
+            "height": 1080,
+            "compressed": true,
+            "url": "https://apps.modpacks.ch/modpacks/art/3/bg.png",
+            "sha1": "3754b72c76414284bf97ccabc8803acfc7ebddbf",
+            "size": 1540354,
+            "id": 160,
+            "type": "splash",
+            "updated": 1603026092
+        }
+    ],
+    "links": [
+        {
+            "id": 8,
+            "name": "ChosenArchitect plays FTB Presents Stoneblock 2",
+            "link": "https://www.twitch.tv/videos/615012684",
+            "type": "video"
+        }
+    ],
+    "authors": [
+        {
+            "website": "",
+            "id": 8,
+            "name": "FTB Team",
+            "type": "team",
+            "updated": 1585874706
+        }
+    ],
+    "versions": [
+        {
+            "specs": {
+                "id": 108,
+                "minimum": 4092,
+                "recommended": 6138
+            },
+            "id": 94,
+            "name": "1.20.0",
+            "type": "Release",
+            "updated": 1596289070
+        },
+        {
+            "specs": {
+                "id": 152,
+                "minimum": 4096,
+                "recommended": 6122
+            },
+            "id": 141,
+            "name": "1.21.0",
+            "type": "Release",
+            "updated": 1603038076
+        },
+        {
+            "specs": {
+                "id": 164,
+                "minimum": 4096,
+                "recommended": 6122
+            },
+            "id": 153,
+            "name": "1.21.1",
+            "type": "Release",
+            "updated": 1603202514
+        }
+    ],
+    "installs": 73097,
+    "plays": 399745,
+    "featured": false,
+    "refreshed": 1603471233,
+    "notification": "",
+    "rating": {
+        "id": -1,
+        "configured": false,
+        "verified": false,
+        "age": 12,
+        "gambling": false,
+        "frightening": false,
+        "alcoholdrugs": false,
+        "nuditysexual": false,
+        "sterotypeshate": false,
+        "languageviolence": false
+    },
+    "status": "success",
+    "id": 4,
+    "name": "FTB Presents Stoneblock 2",
+    "type": "release",
+    "updated": 1585735857,
+    "tags": [
+        {
+            "id": 6,
+            "name": "1.12.2"
+        },
+        {
+            "id": 9,
+            "name": "FTB"
+        },
+        {
+            "id": 13,
+            "name": "Tech"
+        },
+        {
+            "id": 12,
+            "name": "Magic"
+        },
+        {
+            "id": 14,
+            "name": "Questing"
+        },
+        {
+            "id": 23,
+            "name": "Exploration"
+        },
+        {
+            "id": 27,
+            "name": "Kitchen"
+        },
+        {
+            "id": 28,
+            "name": "Sink"
+        },
+        {
+            "id": 22,
+            "name": "Large"
+        }
+    ]
+}

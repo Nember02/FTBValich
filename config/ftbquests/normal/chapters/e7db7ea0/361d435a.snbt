@@ -1,0 +1,11 @@
+{
+	title: "Как оценить еду HarvestCraft",
+	icon: "openblocks:auto_anvil",
+	x: -2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "c65d7bf9",
+		type: "checkmark",
+		title: "Ладно"
+	}]
+}

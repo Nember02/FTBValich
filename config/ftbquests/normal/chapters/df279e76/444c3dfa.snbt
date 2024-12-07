@@ -1,0 +1,54 @@
+{
+	title: "Поставка Ягоды (большая)",
+	x: -10.5d,
+	y: 4.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"357e221b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cca995ac",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raspberryitem"
+		}],
+		count: 2250L,
+		consume_items: true
+	},
+	{
+		uid: "1a4e3b01",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blackberryitem"
+		}],
+		count: 2250L,
+		consume_items: true
+	},
+	{
+		uid: "9c8b4372",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blueberryitem"
+		}],
+		count: 2250L,
+		consume_items: true
+	},
+	{
+		uid: "83d41ddf",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cranberryitem"
+		}],
+		count: 2250L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "4f74605a",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 209
+	}]
+}

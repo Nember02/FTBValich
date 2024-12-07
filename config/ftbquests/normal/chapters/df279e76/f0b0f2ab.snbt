@@ -1,0 +1,45 @@
+{
+	title: "Поставка Овощи (малая)",
+	x: -8.0d,
+	y: 5.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"86f7c44c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "48a5e3a9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bellpepperitem"
+		}],
+		count: 333L,
+		consume_items: true
+	},
+	{
+		uid: "59c17c5a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:eggplantitem"
+		}],
+		count: 333L,
+		consume_items: true
+	},
+	{
+		uid: "d245be19",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tomatoitem"
+		}],
+		count: 333L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "dce2243f",
+		type: "item",
+		auto: "enabled",
+		item: "harvestcraft:garliccoinitem",
+		count: 15
+	}]
+}

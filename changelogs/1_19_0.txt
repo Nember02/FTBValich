@@ -1,0 +1,27 @@
+1.19.0 UPDATE
+
+Mods updated:
+AppleSkin
+Cyclic
+Ender IO
+Ender IO Endergy
+EnderCore
+Ex Compressum
+Flux Networks
+FTB Library
+FTB Quests
+FTB Utilities
+FTB Ultimine
+Gas Conduits
+Immersive Engineering
+Just Enough HarvestCraft (JEHC)
+Just Enough Items (JEI)
+MineTogether
+Morph
+ProjectE
+ProjectEX
+Xaero's Minimap
+
+Other:
+Fixed ultimine config.
+Updated script to fit with new version of ProjectEX

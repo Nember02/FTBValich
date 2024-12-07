@@ -1,0 +1,21 @@
+{
+	title: ".408 Cheyenne Tactical Bullet",
+	icon: "mw:bullet408ct",
+	x: 0.0d,
+	y: 1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "7f0f8ba6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "1bc2d75d",
+		type: "item",
+		item: "mw:bullet408ct",
+		count: 100
+	}]
+}

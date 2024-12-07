@@ -1,0 +1,26 @@
+{
+	title: "Поставка Крупы (открытие)",
+	x: -9.5d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"9a47f807"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d6ba29f9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:barleyitem"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "326d9d8e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:ryeitem"
+		}],
+		consume_items: false
+	}]
+}
